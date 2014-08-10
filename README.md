@@ -50,3 +50,7 @@ The final step is to push all your data back up to Heroku with the credentials f
 Again, this will delete your data on Heroku and replace it with your local version.
 
 I know this is somewhat awkward and hacky. I started implementing Twitter's OAuth from properly but it wasn't working for inscrutable reasons probably related to OAuth being worse than Ebola. Pull requests welcome.
+
+## Actually Sending Tweets
+
+You can actually schedule the sending of tweets using <a href="https://devcenter.heroku.com/articles/scheduler">Heroku's scheduler</a>. Create a job for "rake send_tweets" on whatever schedule you'd like. By default that task sends one random tweet for each bot currently in the system. If you'd like it to do something more complicated you can change that rake task. Again, pull requests welcome.
