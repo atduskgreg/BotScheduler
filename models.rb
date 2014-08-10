@@ -6,7 +6,6 @@ require 'dm-aggregates'
 require 'twitter_oauth'
 
 DataMapper.setup(:default, ENV['DATABASE_URL'] || "postgres://localhost/bot_scheduler")
-TWITTER_CONFIG = YAML.load(open("config.yml"))
 
 class Bot
  
@@ -65,8 +64,8 @@ class Bot
     return @client if @client
 
     @client = TwitterOAuth::Client.new(
-      :consumer_key => TWITTER_CONFIG["consumer_key"],
-      :consumer_secret => TWITTER_CONFIG["consumer_secret"]
+      :consumer_key => ENV["twitter_consumer_key"],
+      :consumer_secret => ENV["twitter_consumer_secret"]
     )
   end
 
