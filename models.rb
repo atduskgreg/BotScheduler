@@ -19,6 +19,14 @@ class Bot
 
   has n, :tweets
 
+  def self.verified_bots
+    all :verified => true
+  end
+
+  def next_tweet
+    self.unpublished_tweets.sample
+  end
+
   def authorize_interactive!
     
     puts "Make sure you are logged in as the desired twitter user, then:"
@@ -106,6 +114,9 @@ class Tweet
   def publish!
     bot.client.authorized?
     bot.client.update(text)
+
+    self.posted = true
+    self.save
   end
 
 end
