@@ -64,8 +64,8 @@ class Bot
     return @client if @client
 
     @client = TwitterOAuth::Client.new(
-      :consumer_key => ENV["twitter_consumer_key"],
-      :consumer_secret => ENV["twitter_consumer_secret"]
+      :consumer_key => ENV["TWITTER_CONSUMER_KEY"],
+      :consumer_secret => ENV["TWITTER_CONSUMER_SECRET"]
     )
   end
 
