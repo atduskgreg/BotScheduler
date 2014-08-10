@@ -1,0 +1,9 @@
+<h2>All known bots</h2>
+
+<p><a href="/bot/new">New bot</a></p>
+
+<ul>
+	<% @bots.each do |bot| %>
+	<li><a href="/bots/<%= bot %>"><%= bot %></a></li>
+	<% end %>
+</ul>
