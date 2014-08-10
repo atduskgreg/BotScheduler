@@ -13,10 +13,16 @@ task :add_bot do
 	bot.authorize_interactive!
 end
 
-desc "Sync data to heroku"
-task :sync_heroku do
+desc "Sync data _to_ heroku"
+task :sync_to_heroku do
 	puts `heroku pg:reset HEROKU_POSTGRESQL_GRAY_URL --confirm bot-scheduler`
 	puts `heroku pg:push bot_scheduler HEROKU_POSTGRESQL_GRAY_URL`
+end
+
+desc "Sync data _from_ heroku"
+task :sync_from_heroku do
+	puts `dropdb bot_scheduler`
+	puts `heroku pg:pull HEROKU_POSTGRESQL_GRAY_URL bot_scheduler`
 end
 
 desc "Send next tweet for each bot. Run by the Heroku scheduler"
