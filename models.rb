@@ -25,48 +25,62 @@ class Bot
     puts "visit the URL and copy the code: "
 
     request_token = request_token_pin
-    puts request_token.authorize_url
+    STDOUT.puts request_token.authorize_url
 
-    code = gets.strip
-    result = authorize_token_from_code request_token, code
+    code = STDIN.gets.strip
+    result = authorize_token_from_code( request_token, code )
 
-    puts result.authorized?
+    STDOUT.puts client.authorized?
+
+    if client.authorized?
+      puts "token: #{result.inspect}"
+      self.twitter_token = result.token
+      self.twitter_secret = result.secret
+      self.verified = true
+      self.save
+
+      return result
+    end
+
   end
 
   def request_token_oauth
-    client.request_token(:oauth_callback => "http://bot-scheduler.herokuapp.com/oauth/confirm/#{handle}")
+    client.authentication_request_token(:oauth_callback => "http://bot-scheduler.herokuapp.com/oauth/confirm/#{handle}")
   end
 
   def request_token_pin
     client.authentication_request_token(:oauth_callback => 'oob')
   end
 
-  def authorize_token_from_callback token, oauth_verifier
-    access_token = client.authorize(
+  def authorize_token_from_callback request_token, oauth_verifier
+    client.authorize(
       request_token.token,
       request_token.secret,
       :oauth_verifier => oauth_verifier
     )
-    return access_token
   end
 
-  def authorize_token_from_code token, code
+  def authorize_token_from_code request_token, code
     client.authorize(
         request_token.token,
         request_token.secret,
         :oauth_verifier => code
     )
-
-    return access_token
   end
 
   def client
     return @client if @client
 
-    @client = TwitterOAuth::Client.new(
-      :consumer_key => ENV["TWITTER_CONSUMER_KEY"],
-      :consumer_secret => ENV["TWITTER_CONSUMER_SECRET"]
-    )
+    opts = {:consumer_key => ENV["TWITTER_CONSUMER_KEY"],
+            :consumer_secret => ENV["TWITTER_CONSUMER_SECRET"]}
+
+    if self.verified
+      opts[:token] = self.twitter_token
+      opts[:secret] = self.twitter_secret
+    end
+
+    @client = TwitterOAuth::Client.new(opts)
+
   end
 
   def to_s
@@ -90,7 +104,8 @@ class Tweet
 
 
   def publish!
-
+    bot.client.authorized?
+    bot.client.update(text)
   end
 
 end
