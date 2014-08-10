@@ -1,9 +1,4 @@
 <h2>Authorize @<%= @bot %></h2>
 
 <p><b>Make sure you are logged into Twitter as the correct account.</b></p>
-<p>Visit <a href="<%= @bot.authorize_url %>"><%= @bot.authorize_url %></a></p>
-<p>Copy PIN and enter it here:</p>
-<form action="/authorize/<%= @bot %>" method="post">
-	<p><label>PIN</label><input type="text" name="pin" /></p>
-	<p><label>&nbsp;</label><input type="submit" value="authorize" /></p>
-</form>
+<p>Visit <a href="<%= @bot.authorize_url %>"><%= @bot.request_token_oauth.authorize_url %></a> to authorize.</p>
