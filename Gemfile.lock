@@ -4,6 +4,8 @@ GEM
     addressable (2.3.6)
     data_objects (0.10.14)
       addressable (~> 2.1)
+    dm-aggregates (1.2.0)
+      dm-core (~> 1.2.0)
     dm-core (1.2.1)
       addressable (~> 2.3)
     dm-do-adapter (1.2.0)
@@ -38,6 +40,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  dm-aggregates
   dm-core
   dm-migrations
   dm-postgres-adapter
