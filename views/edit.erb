@@ -1,4 +1,4 @@
-<h2>Edit Tweet for @<%= @tweet.bot %></h2>
+<h2>Edit Tweet for <a href="/bots/<%= @tweet.bot %>">@<%= @tweet.bot %></a></h2>
 
 <form action="/tweets/<%= @tweet.id %>" method="post">
 	<textarea cols="50" rows="10" name="text" ><%= @tweet.text %></textarea>
