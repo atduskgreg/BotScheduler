@@ -1,4 +1,4 @@
-require './load_config'
+require './load_config' unless ENV["RACK_ENV"] == "production"
 require './models'
 
 desc "Authorize a new bot."

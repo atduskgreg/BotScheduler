@@ -26,6 +26,7 @@ GEM
     rack (1.5.2)
     rack-protection (1.5.3)
       rack
+    rake (10.0.3)
     sinatra (1.4.5)
       rack (~> 1.4)
       rack-protection (~> 1.4)
@@ -45,5 +46,6 @@ DEPENDENCIES
   dm-migrations
   dm-postgres-adapter
   dm-timestamps
+  rake
   sinatra
   twitter_oauth
