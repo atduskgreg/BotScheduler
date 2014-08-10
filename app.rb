@@ -2,7 +2,6 @@ require 'rubygems'
 require 'bundler/setup'
 require 'sinatra'
 
-require './load_config'
 require './models'
 
 helpers do
