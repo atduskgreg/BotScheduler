@@ -14,7 +14,7 @@
 	
 	<ul>
 		<% @bot.unpublished_tweets.each do |tweet| %>
-		<li><%= tweet.text %></li>
+		<li><%= tweet.text %> (<a href="/tweets/edit/<%= tweet.id %>">edit</a> <form style="display:inline" action="/tweets/delete/<%= tweet.id %>" method="post"><input type="submit" value="delete" /></form>)</li>
 		<% end %>
 	</ul>
 	

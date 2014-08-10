@@ -1,0 +1,6 @@
+<h2>Edit Tweet for @<%= @tweet.bot %></h2>
+
+<form action="/tweets/<%= @tweet.id %>" method="post">
+	<textarea cols="50" rows="10" name="text" ><%= @tweet.text %></textarea>
+	<p><input type="submit" value="update" /></p>
+</form>

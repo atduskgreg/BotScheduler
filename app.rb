@@ -2,6 +2,7 @@ require 'rubygems'
 require 'bundler/setup'
 require 'sinatra'
 
+require './load_config' unless ENV["RACK_ENV"] == "production"
 require './models'
 
 helpers do
@@ -36,6 +37,25 @@ end
 
 get "/bot/new" do
 	erb :new
+end
+
+get "/tweets/edit/:tweet_id" do
+	@tweet = Tweet.get params[:tweet_id]
+	erb :edit
+end
+
+post "/tweets/:tweet_id" do
+	@tweet = Tweet.get params[:tweet_id]
+	@tweet.text = params["text"]
+	@tweet.save
+
+	redirect "/bots/#{@tweet.bot}"
+end
+
+post "/tweets/delete/:tweet_id" do
+	@tweet = Tweet.get params[:tweet_id]
+	@tweet.destroy
+	redirect "/bots/#{@tweet.bot}"
 end
 
 get "/authorize/:bot" do
