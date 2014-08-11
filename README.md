@@ -54,3 +54,5 @@ I know this is somewhat awkward and hacky. I started implementing Twitter's OAut
 ## Actually Sending Tweets
 
 You can actually schedule the sending of tweets using <a href="https://devcenter.heroku.com/articles/scheduler">Heroku's scheduler</a>. Create a job for "rake send_tweets" on whatever schedule you'd like. By default that task sends one random tweet for each bot currently in the system. If you'd like it to do something more complicated you can change that rake task. Again, pull requests welcome.
+
+_NB: The Heroku Scheduler's times are given in UTC. Depending on where you live, you might find this confusing as I did and need to make recourse to [everytimezone](http://everytimezone.com/)._
