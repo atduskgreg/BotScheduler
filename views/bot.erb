@@ -6,7 +6,8 @@
 	<p><b>Not verified.<b/> Can't post tweets. Click <a href="/<%= @bot %>/verify">here</a> to verify.</p>
 <% else %> 
 	<form action="/<%= @bot %>/tweets" method="post">
-		<textarea cols="50" rows="10" name="text"></textarea>
+		<p id="count">140</p>
+		<textarea id="counted-textarea" cols="50" rows="10" name="text"></textarea>
 		<p><input type="submit" value="save" /></p>
 	</form>
 	

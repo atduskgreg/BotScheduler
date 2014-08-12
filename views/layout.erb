@@ -1,5 +1,22 @@
 <html>
 <head>
+	<script src="/js/jquery.min.js"></script>
+	<script>
+	function ready(){
+		$("#counted-textarea").keyup(function(){
+			var c = 140 - $(this).val().length;
+  			$("#count").text(c);
+  			if(c < 0){
+  				$("#count").css("color", "red");
+  			} else {
+  				$("#count").css("color", "black");
+
+  			}
+		});
+	}
+	document.addEventListener("DOMContentLoaded", ready, false);
+
+	</script>
 </head>
 <body>
 <div style="border-bottom: 1px solid #ccc">
