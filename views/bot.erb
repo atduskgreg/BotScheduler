@@ -11,7 +11,7 @@
 		<p><input type="submit" value="save" /></p>
 	</form>
 	
-	<h3>Currently Scheduled</h3>
+	<h3>Currently Scheduled (<%= @bot.tweets.count :posted => false %>)</h3>
 	
 	<ul>
 		<% @bot.unpublished_tweets.each do |tweet| %>

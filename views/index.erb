@@ -4,6 +4,6 @@
 
 <ul>
 	<% @bots.each do |bot| %>
-	<li><a href="/bots/<%= bot %>"><%= bot %></a></li>
+	<li><a href="/bots/<%= bot %>"><%= bot %></a> (<%= bot.tweets.count :posted => false %>)</li>
 	<% end %>
 </ul>
