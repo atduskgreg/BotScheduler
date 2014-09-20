@@ -28,6 +28,11 @@ end
 desc "Send next tweet for each bot. Run by the Heroku scheduler"
 task :send_tweets do
 	Bot.verified_bots.each do |bot|
-		bot.next_tweet.publish!
+		begin
+			bot.next_tweet.publish!
+		rescue Exception => e
+			puts "ERROR: Problem posting for #{bot.handle}"
+			puts "#{e.inspect}: #{e.message}" 
+		end
 	end
 end

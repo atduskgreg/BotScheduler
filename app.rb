@@ -97,3 +97,10 @@ post "/:bot/tweets" do
 
 	redirect back
 end
+
+post "/tweets/publish/:tweet_id" do
+	tweet = Tweet.get params[:tweet_id]
+	tweet.publish!
+
+	redirect back
+end
