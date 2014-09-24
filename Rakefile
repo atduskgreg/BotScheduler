@@ -35,7 +35,7 @@ task :send_tweets do
 	end
 end
 
-dsc "Send tweet for special West Wing bot"
+desc "Send tweet for special West Wing bot"
 task :tweet_west_wing do
 	begin
 		WestWingBot.next_tweet.publish!
