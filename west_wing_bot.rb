@@ -35,7 +35,7 @@ class WestWingBot
 			end
 		
 			if !tweetables.empty?
-				tweet = Tweet.create :text => tweetables.sample
+				tweet = bot.tweets.create :text => tweetables.sample
 				break				
 			end
 		end
