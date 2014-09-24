@@ -37,8 +37,9 @@ end
 
 desc "Send tweet for special West Wing bot"
 task :tweet_west_wing do
+	bot = WestWingBot.new
 	begin
-		WestWingBot.next_tweet.publish!
+		bot.next_tweet.publish!
 	rescue Exception => e
 		puts "ERROR: Problem posting for #{bot.handle}"
 		puts "#{e.inspect}: #{e.message}" 

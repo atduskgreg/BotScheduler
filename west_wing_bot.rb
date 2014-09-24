@@ -9,6 +9,10 @@ class WestWingBot
 		@bot ||= Bot.first :handle => "jedsthirdterm"
 	end
 
+	def handle
+		bot.handle
+	end
+
 	def next_tweet
 		index = Ferret::Index::Index.new(:default_field => 'content', :path => 'ferret-index')
 		url = "https://news.google.com/news/"
