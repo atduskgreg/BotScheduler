@@ -1,8 +1,6 @@
 require './load_config' unless ENV["RACK_ENV"] == "production"
 require './models'
-
-
-desc "Send "
+require './west_wing_bot'
 
 desc "Authorize a new bot."
 task :add_bot do
@@ -34,5 +32,15 @@ task :send_tweets do
 			puts "ERROR: Problem posting for #{bot.handle}"
 			puts "#{e.inspect}: #{e.message}" 
 		end
+	end
+end
+
+dsc "Send tweet for special West Wing bot"
+task :tweet_west_wing do
+	begin
+		WestWingBot.next_tweet.publish!
+	rescue Exception => e
+		puts "ERROR: Problem posting for #{bot.handle}"
+		puts "#{e.inspect}: #{e.message}" 
 	end
 end
