@@ -54,8 +54,11 @@ class WestWingBot
 						end
 					end	
 
+					if added_tags.length > 0
+						t << " #{link}"
+					end
 
-					tweetables << "#{t} #{link}"
+					tweetables << t
 				end
 
 				
