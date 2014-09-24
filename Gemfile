@@ -8,6 +8,6 @@ gem "twitter_oauth"
 gem "rake"
 gem "ferret"
 gem "nokogiri"
-
+gem "engtagger"
 
 gem "dm-postgres-adapter"
