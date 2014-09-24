@@ -30,7 +30,7 @@ class WestWingBot
 				txt = index[doc]['file']
 				t = "#{txt} #{link}"
 				if t.length <= 140 && score > 0.5
-					tweetables << "#{t} [#{t.length}]"
+					tweetables << t
 				end
 			end
 		
