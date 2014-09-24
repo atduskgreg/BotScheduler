@@ -23,12 +23,14 @@ class WestWingBot
 		index = Ferret::Index::Index.new(:default_field => 'content', :path => 'ferret-index')
 		url = "https://news.google.com/news/"
 		doc = Nokogiri::HTML(open(url))
-		headlines = doc.css('.titletext').collect{|n| n}
+		# switch this to ".top-stories-section .titletext" to just do top stories
+		headlines = doc.css('.section-stream-content .titletext').collect{|n| n}
 
 		tweet = nil
 
 		headlines.shuffle.each do |headline|
 			text = headline.text
+
 			link = headline.parent.attributes["href"].value
 		
 			tweetables = []
