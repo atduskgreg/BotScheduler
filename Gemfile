@@ -7,6 +7,7 @@ gem "sinatra"
 gem "twitter_oauth"
 gem "rake"
 gem "ferret"
+gem "nokogiri"
 
 
 gem "dm-postgres-adapter"
