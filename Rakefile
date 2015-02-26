@@ -23,9 +23,21 @@ task :sync_from_heroku do
 	puts `heroku pg:pull HEROKU_POSTGRESQL_GRAY_URL bot_scheduler`
 end
 
-desc "Send next tweet for each bot. Run by the Heroku scheduler"
+desc "Send next tweet for each bot with a normal schedule. Run by the Heroku scheduler"
 task :send_tweets do
-	Bot.verified_bots.each do |bot|
+	Bot.verified_bots("normal").each do |bot|
+		begin
+			bot.next_tweet.publish!
+		rescue Exception => e
+			puts "ERROR: Problem posting for #{bot.handle}"
+			puts "#{e.inspect}: #{e.message}" 
+		end
+	end
+end
+
+desc "Send tweets for bots with the daily schedule"
+task :send_daily do
+	Bot.verified_bots("daily").each do |bot|
 		begin
 			bot.next_tweet.publish!
 		rescue Exception => e

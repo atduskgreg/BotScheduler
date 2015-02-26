@@ -17,10 +17,12 @@ class Bot
   property :twitter_token, String
   property :twitter_secret, String
 
+  property :frequency, String, :default => "normal" # normal, daily
+
   has n, :tweets
 
-  def self.verified_bots
-    all :verified => true
+  def self.verified_bots(frequency)
+    all :verified => true, :frequency => frequency
   end
 
   def next_tweet
