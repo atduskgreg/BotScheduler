@@ -1,4 +1,5 @@
 require 'marky_markov'
+require './models'
 
 class DestinyEbooksBot
 	def bot
