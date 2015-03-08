@@ -1,0 +1,3060 @@
+---
+- :id: 1361
+  :name: Allegory
+  :definition: An allegory is a symbolism device where the meaning of a greater, often
+    abstract, concept is conveyed with the aid of a more corporeal object or idea
+    being used as an example. Usually a rhetoric device, an allegory suggests a meaning
+    via metaphoric examples.
+  :example: ! 'Faith is like a stony uphill climb: a single stumble might send you
+    sprawling but belief and steadfastness will see you to the very top.'
+  :source: devices
+- :id: 1362
+  :name: Alliteration
+  :definition: Alliteration is a literary device where words are used in quick succession
+    and begin with letters belonging to the same sound group. Whether it is the consonant
+    sound or a specific vowel group, the alliteration involves creating a repetition
+    of similar sounds in the sentence. Alliterations are also created when the words
+    all begin with the same letter. Alliterations are used to add character to the
+    writing and often add an element of ‘fun’ to the piece..
+  :example: The Wicked Witch of the West went her own way. (The ‘W’ sound is highlighted
+    and repeated throughout the sentence.)
+  :source: devices
+- :id: 1363
+  :name: Allusion
+  :definition: An allusion is a figure of speech whereby the author refers to a subject
+    matter such as a place, event, or literary work by way of a passing reference.
+    It is up to the reader to make a connection to the subject being mentioned.
+  :example: It’s no wonder everyone refers to Mary as another Mother Teresa in the
+    making; she loves to help and care after people everywhere- from the streets to
+    her own friends. In the example the author uses the mention of Mother Teresa to
+    indicate the sort of qualities that Mary has.
+  :source: devices
+- :id: 1364
+  :name: Amplification
+  :definition: Amplification refers to a literary practice wherein the writer embellishes
+    the sentence by adding more information to it in order to increase its worth and
+    understandability. When a plain sentence is too abrupt and fails to convey the
+    full implications desired, amplification comes into play when the writer adds
+    more to the structure to give it more meaning.
+  :example: ! 'Original sentence- The thesis paper was difficult. After amplification-
+    The thesis paper was difficult: it required extensive research, data collection,
+    sample surveys, interviews and a lot of fieldwork.'
+  :source: devices
+- :id: 1365
+  :name: Anagram
+  :definition: Anagrams are an extremely popular form of literary device wherein the
+    writer jumbles up parts of the word to create a new word. From the syllables of
+    a phrase to the individual letters of a word, any fraction can be jumbled to create
+    a new form. Anagram is a form of wordplay that allows the writer to infuse mystery
+    and a little interactive fun in the writing so that the reader can decipher the
+    actual word on their own and discover a depth of meaning to the writing.
+  :example: An anagram for "debit card" is "bad credit". As you can see, both phrases
+    use the same letters. By mixing the letters a bit of humor is created.
+  :source: devices
+- :id: 1366
+  :name: Analogy
+  :definition: An analogy is a literary device that helps to establish a relationship
+    based on similarities between two concepts or ideas. By using an analogy we can
+    convey a new idea by using the blueprint of an old one as a basis for understanding.
+    With a mental linkage between the two, one can create understanding regarding
+    the new concept in a simple and succinct manner.
+  :example: In the same way as one cannot have the rainbow without the rain, one cannot
+    achieve success and riches without hard work.
+  :source: devices
+- :id: 1367
+  :name: Anastrophe
+  :definition: Anastrophe is a form of literary device wherein the order of the noun
+    and the adjective in the sentence is exchanged. In standard parlance and writing
+    the adjective comes before the noun but when one is employing an anastrophe the
+    noun is followed by the adjective. This reversed order creates a dramatic impact
+    and lends weight to the description offered by the adjective.
+  :example: He spoke of times past and future, and dreamt of things to be.
+  :source: devices
+- :id: 1368
+  :name: Anecdote
+  :definition: The word anecdote, phonetically pronounced an.ik.doht, means a short
+    verbal accounting of a funny, amusing, interesting event or incident. The story
+    is usually a reminiscence from the teller's life but at best is a related story
+    of fact, as opposed to a contrived work of fiction. The origin of the word anecdote
+    comes from the Greek Byzantine period, A.D. 527 to 565 during the reign of emperor
+    Justinian. In his court, Justinian had a historian named Procopius who was a gifted
+    writer who wrote many witty, amusing and somewhat bawdy accounts of court life.
+    Never intending for this stories to become public he entitled his writings as
+    “Anecdota” which was Greek for unpublished and kept secret. After his secret writings
+    did indeed become public and published, the term anecdote became commonly used
+    for similar accounts.
+  :example: ! 'Amusing anecdotes many times find their way into wedding receptions,
+    family reunions and any other gathering of people who know each other well. Teachers
+    and educators often tell classrooms of pupils anecdotes about famous people. The
+    anecdotes are not always flattering, but are usually revealing of character and
+    invariably amusing. Here is an example of an anecdote about Winston Churchill:
+    Winston Churchill was very fond of his pet dog Rufus. He ate in the dining room
+    with the family on a special cloth and was treated with utmost respect. When enjoying
+    movies, Rufus had the best seat in the house; on Winston Churchill''s lap. While
+    watching “Oliver Twist,” Churchill put his hands over Rufus'' eyes during the
+    scene where Bill Sike''s intends to drown his dog. Churchill is believed to have
+    said to Rufus: “don''t look now, dear. I''ll tell you about it later.”'
+  :source: devices
+- :id: 1369
+  :name: Anthropomorphism
+  :definition: Anthropomorphism can be understood to be the act of lending a human
+    quality, emotion or ambition to a non-human object or being. This act of lending
+    a human element to a non-human subject is often employed in order to endear the
+    latter to the readers or audience and increase the level of relativity between
+    the two while also lending character to the subject.
+  :example: The raging storm brought with it howling winds and fierce lightning as
+    the residents of the village looked up at the angry skies in alarm.
+  :source: devices
+- :id: 1370
+  :name: Antithesis
+  :definition: An antithesis is used when the writer employs two sentences of contrasting
+    meanings in close proximity to one another. Whether they are words or phrases
+    of the same sentence, an antithesis is used to create a stark contrast using two
+    divergent elements that come together to create one uniform whole. An antithesis
+    plays on the complementary property of opposites to create one vivid picture.
+    The purpose of using an antithesis in literature is to create a balance between
+    opposite qualities and lend a greater insight into the subject.
+  :example: When Neil Armstrong walked on the moon it might have been one small step
+    for a man but it was one giant leap for mankind.
+  :source: devices
+- :id: 1371
+  :name: Aphorism
+  :definition: An aphorism is a concise statement that is made in a matter of fact
+    tone to state a principle or an opinion that is generally understood to be a universal
+    truth. Aphorisms are often adages, wise sayings and maxims aimed at imparting
+    sense and wisdom. It is to be noted that aphorisms are usually witty and curt
+    and often have an underlying tone of authority to them.
+  :example: Upon seeing the shoddy work done by the employee the boss told him to
+    “either shape up or ship out”.
+  :source: devices
+- :id: 1372
+  :name: Archetype
+  :definition: An archetype is a reference to a concept, a person or an object that
+    has served as a prototype of its kind and is the original idea that has come to
+    be used over and over again. Archetypes are literary devices that employ the use
+    of a famous concept, person or object to convey a wealth of meaning. Archetypes
+    are immediately identifiable and even though they run the risk of being overused,
+    they are still the best examples of their kind.
+  :example: Romeo and Juliet are an archetype of eternal love and a star-crossed love
+    story.
+  :source: devices
+- :id: 1373
+  :name: Assonance
+  :definition: Assonance refers to repetition of sounds produced by vowels within
+    a sentence or phrase. In this regard assonance can be understood to be a kind
+    of alliteration. What sets it apart from alliterations is that it is the repetition
+    of only vowel sounds. Assonance is the opposite of consonance, which implies repetitive
+    usage of consonant sounds.
+  :example: “A long song”. (Where the ‘o’ sound is repeated in the last two words
+    of the sentence)
+  :source: devices
+- :id: 1374
+  :name: Asyndeton
+  :definition: Asyndeton refers to a practice in literature whereby the author purposely
+    leaves out conjunctions in the sentence, while maintaining the grammatical accuracy
+    of the phrase. Asyndeton as a literary tool helps in shortening up the implied
+    meaning of the entire phrase and presenting it in a succinct form. This compact
+    version helps in creating an immediate impact whereby the reader is instantly
+    attuned to what the writer is trying to convey. Use of this literary device helps
+    in creating a strong impact and such sentences have greater recall worth since
+    the idea is presented in a nutshell.
+  :example: 1. Read, Write, Learn. 2. Watch, Absorb, Understand. 3. Reduce, Reuse,
+    Recycle.
+  :source: devices
+- :id: 1375
+  :name: Authorial Intrusion
+  :definition: Authorial Intrusion is an interesting literary device wherein the author
+    penning the story, poem or prose steps away from the text and speaks out to the
+    reader. Authorial Intrusion establishes a one to one relationship between the
+    writer and the reader where the latter is no longer a secondary player or an indirect
+    audience to the progress of the story but is the main subject of the author’s
+    attention.
+  :example: In many olden novels, especially in suspense novels, the protagonist would
+    move away from the stream of the story and speak out to the reader. This technique
+    was often used to reveal some crucial elements of the story to the reader even
+    though the protagonist might remain mystified within the story for the time being.
+  :source: devices
+- :id: 1376
+  :name: Bibliomancy
+  :definition: As the very name itself suggests, this kind of literary device finds
+    its roots in biblical origins. This term refers to the practice of basing a plot
+    happening or event and anticipating the results it will have on a faction of the
+    Bible. It involves a random selection process wherein the biblical passage is
+    chosen as a founding stone for basing the outcome of the writing. In an overall
+    context, not limited to just literature, bibliomancy refers to foretelling the
+    future by turning to random portions of the Bible for guidance.
+  :example: The Vedas serve as a tool for Bibliomancy to the Hindus while Muslims
+    rely on the Koran.
+  :source: devices
+- :id: 1377
+  :name: Bildungsroman
+  :definition: This is a very popular form of storytelling whereby the author bases
+    the plot on the overall growth of the central character throughout the timeline
+    of the story. As the story progresses, the subject undergoes noticeable mental,
+    physical, social, emotional, moral, and often spiritual advancement and strengthening
+    before the readers’ eyes. It has often been seen that the protagonist begins with
+    views, aims and dreams that are in contrast to the other character’s in the story
+    and then fights his or her way through to achieve them.
+  :example: Scarlet O’Hara in Gone With the Wind experiences immense personal growth
+    as she learns the value of friends and hard work under duress, without compromising
+    her own dreams.
+  :source: devices
+- :id: 1378
+  :name: Cacophony
+  :definition: A cacophony in literature refers to the use of words and phrases that
+    imply strong, harsh sounds within the phrase. These words have jarring and dissonant
+    sounds that create a disturbing, objectionable atmosphere.
+  :example: His fingers rapped and pounded the door, and his foot thumped against
+    the yellowing wood.
+  :source: devices
+- :id: 1379
+  :name: Caesura
+  :definition: This literary device involves creating a fracture of sorts within a
+    sentence where the two separate parts are distinguishable from one another yet
+    intrinsically linked to one another. The purpose of using a caesura is to create
+    a dramatic pause, which has a strong impact. The pause helps to add an emotional,
+    often theatrical touch to the sentence and conveys a depth of sentiment in a short
+    phrase.
+  :example: Mozart- oh how your music makes me soar!
+  :source: devices
+- :id: 1380
+  :name: Characterization
+  :definition: Characterization in literature refers the step by step process wherein
+    an author introduces and then describes a character. The character can be described
+    directly by the author or indirectly through the actions, thoughts, and speech
+    of the character.
+  :example: Michael Corleone was not jus' a mafiaso, but a family man. A man who walked
+    the knife's edge to preserve his sanity.
+  :source: devices
+- :id: 1381
+  :name: Chiasmus
+  :definition: Chiasmus is a figure of speech containing two phrases that are parallel
+    but inverted to each other.
+  :example: You can take the patriot out of the country but you cannot take the country
+    out of the patriot.
+  :source: devices
+- :id: 1382
+  :name: Circumlocution
+  :definition: Circumlocution is a form of writing where the writer uses exaggeratedly
+    long and complex sentences in order to convey a meaning that could have otherwise
+    been conveyed through a shorter, much simpler sentence. Circumlocution involves
+    stating an idea or a view in an indirect manner that leaves the reader guessing
+    and grasping at the actual meaning.
+  :example: Instead of writing “At 8 pm he arrived by car for the dinner party.” the
+    author writes, “Around 3 hours after sunset, it was winter at the time, the man
+    arrived in a combustion engine driven piece of technology with for wheels to join
+    other bipedal creatures in the ingestion of somewhat large quantities of food
+    and drink while having discourse around a large wooden mesa designed for such
+    a purpose”.
+  :source: devices
+- :id: 1383
+  :name: Conflict
+  :definition: It is a literary device used for expressing a resistance the protagonist
+    of the story finds in achieving his aims or dreams. The conflict is a discord
+    that can have external aggressors or can even arise from within the self. It can
+    occur when the subject is battling his inner discord, at odds with his surroundings
+    or it may be pitted against others in the story.
+  :example: John tried hard to convince himself that his Hollywood dreams were worth
+    the struggle but his parents, and his inner voice of reason, failed to agree.
+  :source: devices
+- :id: 1384
+  :name: Connotation
+  :definition: Connotations are the associations people make with words that go being
+    the literal or dictionary definition. Many words have connotations that create
+    emotions or feelings in the reader.
+  :example: And once again, the autumn leaves were falling. This phrase uses ‘autumn’
+    to signify something coming to an end.
+  :source: devices
+- :id: 1385
+  :name: Consonance
+  :definition: Consonance refers to repetition of sounds in quick succession produced
+    by consonants within a sentence or phrase. The repetitive sound is often found
+    at the end of a word. Consonance is the opposite of assonance, which implies repetitive
+    usage of vowel sounds.
+  :example: He struck a streak of bad luck.
+  :source: devices
+- :id: 1386
+  :name: Denotation
+  :definition: Denotation refers to the use of the dictionary definition or literal
+    meaning of a word.
+  :example: They built a house. In the above sentence, house is meant literally as
+    in a building where a family lives. If the word "home" was used instead in the
+    above sentence in place of "house", the meaning would not be so literal as there
+    are many emotions associated with the word "home" beyond simply the structure
+    where people live.
+  :source: devices
+- :id: 1387
+  :name: Deus ex Machina
+  :definition: Deus ex Machina is a rather debatable and often criticized form of
+    literary device. It refers to the incidence where an implausible concept or character
+    is brought into the story in order to make the conflict in the story resolve and
+    to bring about a pleasing solution. The use of Deus ex Machina is not recommended
+    as it is seen to be the mark of a poor plot that the writer needs to resort to
+    random, insupportable and unbelievable twists and turns to reach the end of the
+    story.
+  :example: If in a suspense novel the protagonist suddenly finds a solution to his
+    dilemmas because of divine intervention.
+  :source: devices
+- :id: 1388
+  :name: Diction
+  :definition: Diction is the distinctive tone or tenor of an author’s writings. Diction
+    is not just a writer's choice of words it can include the mood, attitude, dialect
+    and style of writing. Diction is usually judged with reference to the prevailing
+    standards of proper writing and speech and is seen as the mark of quality of the
+    writing. It is also understood as the selection of certain words or phrases that
+    become peculiar to a writer.
+  :example: Certain writers in the modern day and age use archaic terms such as ‘thy’,
+    ‘thee’ and ‘wherefore’ to imbue a Shakespearean mood to their work.
+  :source: devices
+- :id: 1389
+  :name: Doppelganger
+  :definition: The term is derived from the German language and literally translates
+    into ‘double walker’. It refers to a character in the story that is actually a
+    counterfeit or a copy of a genuine character. Doppelgangers of the main characters
+    usually bear the ability to impersonate the original but have vastly different
+    spirits and intentions. The doppelganger usually has a different appearance but
+    an earthly soul and supernatural hoodwinking abilities that allow it to fool other
+    unsuspecting characters.
+  :example: Dr. Jekyll and Mr. Hyde
+  :source: devices
+- :id: 1390
+  :name: Ekphrastic
+  :definition: Ekphrastic refers to a form of writing, mostly poetry, wherein the
+    author describes another work of art, usually visual. It is used to convey the
+    deeper symbolism of the corporeal art form by means of a separate medium. It has
+    often been found that ekphrastic writing is rhetorical in nature and symbolic
+    of a greater meaning.
+  :example: A photograph of an empty landscape can convey desolation, abandon and
+    loss. Similarly, one can convey the same sentiments and concepts by using phrases
+    such as ‘an empty doorway’ or ‘a childless nursery’.
+  :source: devices
+- :id: 1391
+  :name: Epilogue
+  :definition: ! 'Epilogues are an inherent part of any story or poem and are essential
+    to the structure of any written form. The epilogue is an important literary tool
+    that acts as the afterword once the last chapter is over. The purpose of an epilogue
+    is to add a little insight to some interesting developments that happen once the
+    major plot is over. Epilogues often act as a teaser trailer to any possible sequels
+    that might be created later. Sometimes the epilogue is used to add a little bit
+    about the life or future of the main characters after the story itself has unfolded
+    and wrapped up. Epilogues can be written in a number of ways: sometimes the same
+    narrative style as adopted in the story is continued while at other times one
+    of the characters might take up the narrative or speak one to one with the audience.'
+  :example: In a remarkably contemporary moment at the end of The Tempest, Shakespeare's
+    wizard Prospero addresses the audience directly, breaking down the boundaries
+    of the play. He informs them that the play is over, his powers are gone, and thus
+    his escape from the play's island setting depends on their applause that they,
+    in effect, get to decide his fate. This serves as a Epilogue for Shakespeare's
+    tragi-comedy The Tempest.
+  :source: devices
+- :id: 1392
+  :name: Epithet
+  :definition: An epithet is a literary device that is used as a descriptive device.
+    It is usually used to add to a person or place’s regular name and attribute some
+    special quality to the same. Epithets are remarkable in that they become a part
+    of common parlance over time. These descriptive words and phrases can be used
+    to enhance the persona of real and fictitious places, objects, persons and divinities.
+  :example: “Alexander the Great” is the epithet commonly used to refer to Alexander
+    III of Macedon. The young king has come to be recognized by this epithet in all
+    of history and popular culture owing to his spectacular achievements in creating
+    one of the largest ever historical empires.
+  :source: devices
+- :id: 1393
+  :name: Euphemism
+  :definition: The term ‘euphemism’ is used to refer to the literary practice of using
+    a comparatively milder or less abrasive form of a negative description instead
+    of its original, unsympathetic form. This device is used when writing about matters
+    such as sex, violence, death, crimes and things "embarrassing". The purpose of
+    euphemisms is to substitute unpleasant and severe words with more genteel ones
+    in order to mask the harshness.. The use of euphemisms is sometimes manipulated
+    to lend a touch of exaggeration or irony in satirical writing.
+  :example: Using “to put out to pasture” when one implies retiring a person because
+    they are too old to be effective. Below are some more examples of Euphemisms Downsizing
+    - This is used when a company fires or lays off a larger number of employees Friendly
+    fire - This is used by the military when soldiers are accidentally killed by other
+    soldiers on the same side. Tipsy - This is a soft way to say that someone has
+    had to much to drink. Golden years - This is used to describe the later period
+    of life when someone is of old age. Gone to heaven - This is a polite way to say
+    that someone is dead. Enhanced interrogation - This is modern euphemism to minimize
+    what by many people would be viewed as torture.
+  :source: devices
+- :id: 1394
+  :name: Euphony
+  :definition: The literary device “euphony” refers to the use of phrases and words
+    that are noted for possessing an extensive degree of notable loveliness or melody
+    in the sound they create. The use of euphony is predominant in literary prose
+    and poetry, where poetic devices such as alliterations, rhymes and assonace are
+    used to create pleasant sounds. Euphony is the opposite of cacophony, which refers
+    to the creation of unpleasant and harsh sounds by using certain words and phrases
+    together. This literary devices is based on the use and manipulation of phonetics
+    in literature.
+  :example: It has been said that the phrase “cellar door” is reportedly the most
+    pleasant sounding phrase in the English language. The phrase is said to depict
+    the highest degree of euphony, and is said to be especially notable when spoken
+    in the British accent.
+  :source: devices
+- :id: 1395
+  :name: Faulty Parallelism
+  :definition: In literature, the term ‘parallelism’ is used to refer to the practice
+    placing together similarly structure related phrases, words or clauses. Parallelism
+    involves placing sentence items in a parallel grammatical format wherein nouns
+    are listed together, specific verb forms are listed together and the like. When
+    one fails to follow this parallel structure, it results in faulty parallelism.
+    The failure to maintain a balance in grammatical forms is known as faulty parallelism
+    wherein similar grammatical forms receive dissimilar or unequal weight.
+  :example: On the TV show The Simpsons, lead character Bart Simpson says, “they are
+    laughing, not with me”.
+  :source: devices
+- :id: 1396
+  :name: Flashback
+  :definition: Flashback is a literary device wherein the author depicts the occurrence
+    of specific events to the reader, which have taken place before the present time
+    the narration is following, or events that have happened before the events that
+    are currently unfolding in the story. Flashback devices that are commonly used
+    are past narratives by characters, depictions and references of dreams and memories
+    and a sub device known as authorial sovereignty wherein the author directly chooses
+    to refer to a past occurrence by bringing it up in a straightforward manner. Flashback
+    is used to create a background to the present situation, place or person.
+  :example: Back in the day when Sarah was a young girl… You can see flashbacks used
+    very often in movies. For example, it is common in movies for there to be a flashback
+    that gives the viewer a look into the characters life when they were younger,
+    or when they have done something previously. This is done to help the viewer better
+    understand the present situation.
+  :source: devices
+- :id: 1397
+  :name: Foil
+  :definition: A foil is another character in a story who contrasts with the main
+    character, usually to highlight one of their attributes.
+  :example: In the popular book series, Harry Potter, the character of Hogwarts principal
+    Albus Dumbledore, who portrays ‘good’, is constantly shown to believe in the power
+    of true love (of all forms and types) and is portrayed as a strong, benevolent
+    and positive character while the antagonist Lord Voldemort, who depicts the evil
+    and ‘bad’ in the series is constantly shown to mock and disbelieve the sentiment
+    of love and think of it as a foolish indulgence, a trait that is finally his undoing.
+  :source: devices
+- :id: 1398
+  :name: Foreshadowing
+  :definition: The literary device foreshadowing refers to the use of indicative word
+    or phrases and hints that set the stage for a story to unfold and give the reader
+    a hint of something that is going to happen without revealing the story or spoiling
+    the suspense. Foreshadowing is used to suggest an upcoming outcome to the story.
+  :example: “He had no idea of the disastrous chain of events to follow”. In this
+    sentence, while the protagonist is clueless of further developments, the reader
+    learns that something disastrous and problematic is about to happen to/for him.
+  :source: devices
+- :id: 1399
+  :name: Hubris
+  :definition: Hubris, in this day and age, is another way of saying overly arrogant.
+    You can tell the difference of hubris and just regular arrogance or pride by the
+    fact that the character has seemed to allow reality slip away from them. The character
+    portraying hubris, also commonly referred to as hybris, may have just gained a
+    huge amount of power and the false belief that they are “untouchable”. This term
+    hubris used to have a slightly different meaning and was a very negative subject
+    back in ancient Greek. It used to be closely related to a crime in Athens. In
+    writing and literature hubris is generally considered a “tragic flaw” and it is
+    saved for the protagonist. The reason for this is because at the end of the story
+    you should be able to see that it is this flaw that brings the “bad guy” down.
+  :example: A classic example of hubris is featured in Shakespeare’s play Macbeth.
+    Macbeth, the protagonist, overfilled with ambition and arrogance, allows his hubris
+    to think you would be able to kill the valiant Duncan without penalty so he can
+    claim the throne of Scotland for himself. Obviously murder is highly frowned upon,
+    so this eventually leads to Macbeth’s demise as well.
+  :source: devices
+- :id: 1400
+  :name: Hyperbaton
+  :definition: A hyperbaton is a literary device wherein the author plays with the
+    regular positioning of words and phrases and creates a differently structured
+    sentence to convey the same meaning. It is said that by using a hyperbaton, words
+    or phrases overstep their conventional placements and result in a more complex
+    and intriguing sentence structure. This literary device is used to add more depth
+    and interest to the sentence structure.
+  :example: “Alone he walked on the cold, lonely roads”. This sentence is a variation
+    of the more conventional, “He walked alone on the cold, lonely roads”.
+  :source: devices
+- :id: 1401
+  :name: Hyperbole
+  :definition: A hyperbole is a literary device wherein the author uses specific words
+    and phrases that exaggerate and overemphasize the basic crux of the statement
+    in order to produce a grander, more noticeable effect. The purpose of hyperbole
+    is to create a larger-than-life effect and overly stress a specific point. Such
+    sentences usually convey an action or sentiment that is generally not practically/
+    realistically possible or plausible but helps emphasize an emotion.
+  :example: “I am so tired I cannot walk another inch” or “I’m so sleepy I might fall
+    asleep standing here”.
+  :source: devices
+- :id: 1402
+  :name: Imagery
+  :definition: In literature, one of the strongest devices is imagery wherein the
+    author uses words and phrases to create “mental images” for the reader. Imagery
+    helps the reader to visualize more realistically the author’s writings. The usage
+    of metaphors, allusions, descriptive words and similes amongst other literary
+    forms in order to “tickle” and awaken the readers’ sensory perceptions is referred
+    to as imagery. Imagery is not limited to only visual sensations, but also refers
+    to igniting kinesthetic, olfactory, tactile, gustatory, thermal and auditory sensations
+    as well.
+  :example: The gushing brook stole its way down the lush green mountains, dotted
+    with tiny flowers in a riot of colors and trees coming alive with gaily chirping
+    birds.
+  :source: devices
+- :id: 1403
+  :name: Internal Rhyme
+  :definition: In literature the internal rhyme is a practice of forming a rhyme in
+    only one lone line of verse. An internal rhyme is also known as the middle rhyme
+    because it is typically constructed in the middle of a line to rhyme with the
+    bit at the end of the same metrical line.
+  :example: The line from the famed poem Ancient Mariner, “We were the first that
+    ever burst”.
+  :source: devices
+- :id: 1404
+  :name: Inversion
+  :definition: The term ‘inversion’ refers to the practice of changing the conventional
+    placement of words. It is a literary practice typical of the older classical poetry
+    genre. In present day literature it is usually used for the purpose of laying
+    emphasis this literary device is more prevalent in poetry than prose because it
+    helps to arrange the poem in a manner that catches the attention of the reader
+    not only with its content but also with its physical appearance; a result of the
+    peculiar structuring.
+  :example: ! 'In the much known and read Paradise Lost, Milton wrote: “Of Man''s
+    First Disobedience, and the Fruit Of that Forbidden Tree, whose mortal taste Brought
+    Death into the World, and all our woe, With loss of Eden, till one greater Man
+    Restore us, and regain the blissful Seat, Sing Heav''nly Muse. . .”'
+  :source: devices
+- :id: 1405
+  :name: Irony
+  :definition: The use of irony in literature refers to playing around with words
+    such that the meaning implied by a sentence or word is actually different from
+    the literal meaning. Often irony is used to suggest the stark contrast of the
+    literal meaning being put forth. The deeper, real layer of significance is revealed
+    not by the words themselves but the situation and the context in which they are
+    placed.
+  :example: Writing a sentence such as, “Oh! What fine luck I have!”. The sentence
+    on the surface conveys that the speaker is happy with their luck but actually
+    what they mean is that they are extremely unhappy and dissatisfied with their
+    (bad) luck.
+  :source: devices
+- :id: 1406
+  :name: Juxtaposition
+  :definition: Juxtaposition is a literary device wherein the author places a person,
+    concept, place, idea or theme parallel to another. The purpose of juxtaposing
+    two directly or indirectly related entities close together in literature is to
+    highlight the contrast between the two and compare them. This literary device
+    is usually used for etching out a character in detail, creating suspense or lending
+    a rhetorical effect.
+  :example: In Paradise Lost, Milton has used juxtaposition to draw a parallel between
+    the two protagonists, Satan and God, who he discusses by placing their traits
+    in comparison with one another to highlight their differences.
+  :source: devices
+- :id: 1407
+  :name: Kennings
+  :definition: The use of Kennings in literature is characteristically related to
+    works in Old English poetry where the author would use a twist of words, figure
+    of speech or magic poetic phrase or a newly created compound sentence or phrase
+    to refer to a person, object, place, action or idea. The use of imagery and indicative,
+    direct and indirect references to substitute the proper, formal name of the subject
+    is known as kennings. The use of kennings was also prevalent in Old Norse and
+    Germanic poetry.
+  :example: ! 'Kennings are rare in modern day language. Here are a few examples from
+    Beowulf: Battle-sweat = blood Sky-candle = sun Whale-road = ocean Light-of-battle
+    = sword'
+  :source: devices
+- :id: 1408
+  :name: Litote
+  :definition: ! 'Litotes are figures of rhetoric speech that use an understated statement
+    of an affirmative by using a negative description. Rarely talked about, but commonly
+    used in modern day conversations, litotes are a discreet way of saying something
+    unpleasant without directly using negativity. Sometimes called an ironical understatement
+    and/or an avoidance of a truth which can be either positive or negative. Common
+    examples: “I''m not feeling bad,” or “he''s definitely not a rocket scientist.”
+    The actual meanings are: “I am feeling well,” and “he is not smart.” Litotes were
+    used frequently in Old English Poetry and Literature, and can be found in the
+    English, Russian, German, Dutch and French languages.'
+  :example: ! 'In everyday conversations in the 21st century, one may hear expressions
+    like: “not the brightest bulb” “not a beauty” “not bad” “not unfamiliar” These
+    are all examples of negative litotes that mean the opposite: “a dim bulb, or dumb,”
+    “plain in appearance,” “good,” and “knows very well.” Perhaps our society is not
+    trying to be humorous or sarcastic, but kinder? Sometimes double negatives in
+    literature, music and films create a litote that was not intended; for instance
+    in the Rolling Stones hit “I Can''t Get No Satisfaction,” actually means “I CAN
+    receive satisfaction.” Perhaps some best description litotes are found in the
+    bible: take for instance, Jeremiah 30:19: “I will multiply them, and they shall
+    not be few; I will make them honored, and they shall not be small.” Correctly
+    interpreted, he is saying “there will be many and they will be great or large.”'
+  :source: devices
+- :id: 1409
+  :name: Malapropism
+  :definition: Malapropism in literature refers to the practice of misusing words
+    by substituting words with similar sounding words that have different, often unconnected
+    meanings, and thus creating a situation of confusion, misunderstanding and amusement.
+    Malapropism is used to convey that the speaker or character is flustered, bothered,
+    unaware or confused and as a result cannot employ proper diction. A trick to using
+    malapropism is to ensure that the two words (the original and the substitute)
+    sound similar enough for the reader to catch onto the intended switch and find
+    humor in the result.
+  :example: In the play Much Ado About Nothing, noted playwright William Shakespeare’s
+    character Dogberry says, "Our watch, sir, have indeed comprehended two auspicious
+    persons." Instead, what the character means to say is “"Our watch, sir, have indeed
+    apprehended two suspicious persons."
+  :source: devices
+- :id: 1410
+  :name: Metaphor
+  :definition: Metaphors are one of the most extensively used literary devices. A
+    metaphor refers to a meaning or identity ascribed to one subject by way of another.
+    In a metaphor, one subject is implied to be another so as to draw a comparison
+    between their similarities and shared traits. The first subject, which is the
+    focus of the sentences is usually compared to the second subject, which is used
+    to convey a degree of meaning that is used to characterize the first. The purpose
+    of using a metaphor is to take an identity or concept that we understand clearly
+    (second subject) and use it to better understand the lesser known element (the
+    first subject).
+  :example: “Henry was a lion on the battlefield”. This sentence suggests that Henry
+    fought so valiantly and bravely that he embodied all the personality traits we
+    attribute to the ferocious animal. This sentence implies immediately that Henry
+    was courageous and fearless, much like the King of the Jungle.
+  :source: devices
+- :id: 1411
+  :name: Metonymy
+  :definition: Metonymy in literature refers to the practice of not using the formal
+    word for an object or subject and instead referring to it by using another word
+    that is intricately linked to the formal name or word. It is the practice of substituting
+    the main word with a word that is closely linked to it.
+  :example: When we use the name “Washington D.C” we are talking about the U.S’ political
+    hot seat by referring to the political capital of the United States because all
+    the significant political institutions such as the White House, Supreme Court,
+    the U.S. Capitol and many more are located her. The phrase “Washington D.C.” is
+    metonymy for the government of the U.S. in this case.
+  :source: devices
+- :id: 1412
+  :name: Mood
+  :definition: The literary device ‘mood’ refers to a definitive stance the author
+    adopts in shaping a specific emotional perspective towards the subject of the
+    literary work. It refers to the mental and emotional disposition of the author
+    towards the subject, which in turn lends a particular character or atmosphere
+    to the work. The final tone achieved thus is instrumental in evoking specific,
+    appropriate responses from the reader.
+  :example: In Erich Segal’s Love Story, the relationship of the two protagonists
+    is handled with such beauty, delicateness and sensitivity that the reader is compelled
+    to feel the trials and tribulations of the characters.
+  :source: devices
+- :id: 1413
+  :name: Motif
+  :definition: The literary device ‘motif’ is any element, subject, idea or concept
+    that is constantly present through the entire body of literature. Using a motif
+    refers to the repetition of a specific theme dominating the literary work. Motifs
+    are very noticeable and play a significant role in defining the nature of the
+    story, the course of events and the very fabric of the literary piece.
+  :example: In many famed fairytales, the motif of a ‘handsome prince’ falling in
+    love with a ‘damsel in distress’ and the two being bothered by a wicked step mother,
+    evil witch or beast and finally conquering all to live ‘happily ever after’ is
+    a common motif. Another common motif is the simple, pretty peasant girl or girl
+    from a modest background in fairytales discovering that she is actually a royal
+    or noble by the end of the tale.
+  :source: devices
+- :id: 1414
+  :name: Negative Capability
+  :definition: The use of negative capability in literature is a concept promoted
+    by poet John Keats, who was of the opinion that literary achievers, especially
+    poets, should be able to come to terms with the fact that some matters might have
+    to be left unsolved and uncertain. Keats was of the opinion that some certainties
+    were best left open to imagination and that the element of doubt and ambiguity
+    added romanticism and specialty to a concept.
+  :example: The best references of the use of negative capability in literature would
+    be of Keats’ own works, especially poems such as Ode on a Grecian Urn and Ode
+    to a Nightingale.
+  :source: devices
+- :id: 1415
+  :name: Nemesis
+  :definition: In literature, the use of a nemesis refers to a situation of poetic
+    justice wherein the positive characters are rewarded and the negative characters
+    are penalized. The word also sometimes refers to the character or medium by which
+    this justice is brought about as Nemesis was the patron goddess of vengeance according
+    to classical mythology.
+  :example: In the popular book series Harry Potter, the protagonist Harry Potter
+    is the nemesis of the evil Lord Voldemort.
+  :source: devices
+- :id: 1416
+  :name: Onomatopoeia
+  :definition: The term ‘onomatopoeia’ refers to words whose very sound is very close
+    to the sound they are meant to depict. In other words, it refers to sound words
+    whose pronunciation to the actual sound they represent.
+  :example: Words such as grunt, huff, buzz and snap are words whose pronunciation
+    sounds very similar to the actual sounds these words represent. In literature
+    such words are useful in creating a stronger mental image. For instance, sentences
+    such as “the whispering of the forest trees” or “the hum of a thousand bees” or
+    “the click of the door in the nighttime” create vivid mental images.
+  :source: devices
+- :id: 1417
+  :name: Oxymoron
+  :definition: Oxymoron is a significant literary device as it allows the author to
+    use contradictory, contrasting concepts placed together in a manner that actually
+    ends up making sense in a strange, and slightly complex manner. An oxymoron is
+    an interesting literary device because it helps to perceive a deeper level of
+    truth and explore different layers of semantics while writing.
+  :example: Sometimes we cherish things of little value. He possessed a cold fire
+    in his eyes.
+  :source: devices
+- :id: 1418
+  :name: Paradox
+  :definition: A paradox in literature refers to the use of concepts or ideas that
+    are contradictory to one another, yet, when placed together hold significant value
+    on several levels. The uniqueness of paradoxes lies in the fact that a deeper
+    level of meaning and significance is not revealed at first glace, but when it
+    does crystallize, it provides astonishing insight.
+  :example: High walls make not a palace; full coffers make not a king.
+  :source: devices
+- :id: 1419
+  :name: Pathetic Fallacy
+  :definition: Pathetic fallacy is a type of literary device whereby the author ascribes
+    the human feelings of one or more of his or her characters to nonhuman objects
+    or nature or phenomena. It is a type of personification, and is known to occur
+    more by accident and less on purpose.
+  :example: The softly whistling teapot informed him it was time for breakfast.
+  :source: devices
+- :id: 1420
+  :name: Periodic Structure
+  :definition: In literature, the concept of a periodic structure refers to a particular
+    placement of sentence elements such as the main clause of the sentence and/or
+    its predicate are purposely held off and placed at the end instead of at the beginning
+    or their conventional positions. In such placements, the crux of the sentence’s
+    meaning does not become clear to the reader until they reach the last part. While
+    undeniably confusing at first, a periodic structure lends a flair of drama and
+    romanticism to a sentence and is greatly used in poetry.
+  :example: Instead of writing, “brokenhearted and forlorn she waited till the end
+    of her days for his return” one may write, “for his return, brokenhearted and
+    forlorn, waited she till the end of her days”.
+  :source: devices
+- :id: 1421
+  :name: Periphrasis
+  :definition: The term ‘periphrasis’ refers to the use of excessive language and
+    surplus words to convey a meaning that could otherwise be conveyed with fewer
+    words and in more direct a manner. The use of this literary device can be to embellish
+    a sentence, to create a grander effect, to beat around the bush and to draw attention
+    away from the crux of the message being conveyed.
+  :example: Instead of simply saying “I am displeased with your behavior”, one can
+    say, “the manner in which you have conducted yourself in my presence of late has
+    caused me to feel uncomfortable and has resulted in my feeling disgruntled and
+    disappointed with you”.
+  :source: devices
+- :id: 1422
+  :name: Personification
+  :definition: Personification is one of the most commonly used and recognized literary
+    devices. It refers to the practice of attaching human traits and characteristics
+    with inanimate objects, phenomena and animals.
+  :example: “The raging winds” “The wise owl” “The warm and comforting fire”
+  :source: devices
+- :id: 1423
+  :name: Plot
+  :definition: ! 'The plot usually refers to the sequence of events and happenings
+    that make up a story. There is usually a pattern, unintended or intentional, that
+    threads the plot together. The plot basically refers to the main outcome and order
+    of the story. There is another kind of plot in literature as well; it refers to
+    the conflict or clash occurring as a part of the story. The conflict usually follows
+    3 regular formats: a) characters in conflict with one another b) characters in
+    conflict with their surroundings and c) characters in conflict with themselves.'
+  :example: Many date movies follow a similar simple plot. Boy meets girl, boy loses
+    girl, boy wins girl back in the end.
+  :source: devices
+- :id: 1424
+  :name: Point of View
+  :definition: Point of view is the manner in which a story is narrated or depicted
+    and who it is that tells the story. Simply put, the point of view determines the
+    angle and perception of the story unfolding, and thus influences the tone in which
+    the story takes place. The point of view is instrumental in manipulating the reader’s
+    understanding of the narrative. In a way, the point of view can allow or withhold
+    the reader access into the greater reaches of the story. Two of the most common
+    point of view techniques are the first person, wherein the story is told by the
+    narrator from his or her standpoint and the third person wherein the narrator
+    does not figure in the events of the story and tells the story by referring to
+    all characters and places in the third person with third person pronouns and proper
+    nouns.
+  :example: In the popular Lord of the Rings book series, the stories are narrated
+    in the third person and all happenings are described from an “outside the story”
+    point of view. Contrastingly, in the popular teen book series, Princess Diaries,
+    the story is told in the first person, by the protagonist herself.
+  :source: devices
+- :id: 1425
+  :name: Polysyndeton
+  :definition: Polysyndeton refers to the process of using conjunctions or connecting
+    words frequently in a sentence, placed very close to one another. Opposed to the
+    usual norm of using them sparsely, only where they are technically needed. The
+    use of polysyndetons is primarily for adding dramatic effect as they have a strong
+    rhetorical presence.
+  :example: ! 'For example: a) Saying “here and there and everywhere”, instead of
+    simply saying “here, there and everywhere”. b) “Marge and Susan and Anne and Daisy
+    and Barry all planned to go for a picnic”, instead of “Marge, Susan, Anne, Daisy
+    and Barry…” emphasizes each of the individuals and calls attention to every person
+    one by one instead of assembling them as a group.'
+  :source: devices
+- :id: 1426
+  :name: Portmanteau
+  :definition: In literature, this device refers to the practice of joining together
+    two or more words in order to create an entirely new word. This is often done
+    in order to create a name or word for something by combining the individual characteristics
+    of 2 or more other words.
+  :example: 1. The word “smog” is a portmanteau that was built combining “fog” and
+    “smoke” and “smog” has the properties of both fog and smoke. 2. Liger= Lion +
+    Tiger= A hybrid of the two feline species, possessing characteristics of both.
+  :source: devices
+- :id: 1427
+  :name: Prologue
+  :definition: A prologue can be understood to be a sort of introduction to a story
+    that usually sets the tone for the story and acts as a bit of a backgrounder or
+    a “sneak peek” into the story. Prologues are typically a narrative ‘spoken’ by
+    one of the characters and not from the part of the author.
+  :example: 1. "The origin of this story is..." 2. “It all began one day when…”
+  :source: devices
+- :id: 1428
+  :name: Puns
+  :definition: Puns are a very popular literary device wherein a word is used in a
+    manner to suggest two or more possible meanings. This is generally done to the
+    effect of creating humor or irony or wryness. Puns can also refer to words that
+    suggest meanings of similar-sounding words. The trick is to make the reader have
+    an “ah!” moment and discover 2 or more meanings.
+  :example: Santa’s helpers are known as subordinate Clauses. See more examples of
+    puns at http://punjokes.com/
+  :source: devices
+- :id: 1429
+  :name: Rhyme Scheme
+  :definition: The rhyme scheme is the practice of rhyming words placed at the end
+    of the lines in the prose or poetry. Rhyme scheme refers to the order in which
+    particular words rhyme. If the alternate words rhyme, it is an “a-b-a-b” rhyme
+    scheme, which means “a” is the rhyme for the lines 1 and 3 and “b” is the rhyme
+    affected in the lines 2 and 4.
+  :example: Roses are red (a) Violets are blue (b) Beautiful they all may be (c) But
+    I love you (b) The above is an “a-b-c-b” rhyme scheme.
+  :source: devices
+- :id: 1430
+  :name: Rhythm & Rhyme
+  :definition: The concept of ‘rhythm and rhyme’ refers to a pattern of rhymes that
+    is created by using words that produce the same, or similar sounds. Rhythm and
+    rhyme together refer to the recurrence of similar sounds in prose and poetry,
+    creating a musical, gentle effect.
+  :example: “I am a teapot Short and stout; This is my handle And this is my spout.
+    When the water’s boiling Hear me shout; Just lift me up And pour me out”
+  :source: devices
+- :id: 1431
+  :name: Satire
+  :definition: The use of satire in literature refers to the practice of making fun
+    of a human weakness or character flaw. The use of satire is often inclusive of
+    a need or decision of correcting or bettering the character that is on the receiving
+    end of the satire. In general, even though satire might be humorous and may “make
+    fun”, its purpose is not to entertain and amuse but actually to derive a reaction
+    of contempt from the reader.
+  :example: An example of satire in modern popculture is the TV series Southpark that
+    uses satire as it primary medium for drawing attention the flaws in society, especially
+    American society at present. The scripts and writing for the show are an excellent
+    example of satire in written form.
+  :source: devices
+- :id: 1432
+  :name: Setting
+  :definition: In literature, the word ‘setting’ is used to identify and establish
+    the time, place and mood of the events of the story. It basically helps in establishing
+    where and when and under what circumstances the story is taking place.
+  :example: In the first installment of the Harry Potter series, a large part of the
+    book takes place at the protagonist, Harry’s, aunt’s and uncle’s place, living
+    in the “muggle” (non-magical) world with the “muggle” folks, and Harry is unaware
+    of his magical capabilities and blood. This setting establishes the background
+    that Harry has a non-magical childhood with other “muggle” people and has no clue
+    about his special powers or his parents and is raised much like, actually worse
+    than, regular people, till his 11th birthday.
+  :source: devices
+- :id: 1433
+  :name: Simile
+  :definition: Similes are one of the most commonly used literary devices; referring
+    to the practice of drawing parallels or comparisons between two unrelated and
+    dissimilar things, people, beings, places and concepts. By using similes a greater
+    degree of meaning and understanding is attached to an otherwise simple sentence.
+    The reader is able to better understand the sentiment the author wishes to convey.
+    Similes are marked by the use of the words ‘as’ or ‘such as’ or ‘like’.
+  :example: He is like a mouse in front of the teacher.
+  :source: devices
+- :id: 1434
+  :name: Spoonerism
+  :definition: Spoonerism refers to the practice of interchanging the first letters
+    of some words in order to create new words or even to create nonsensical words
+    in order to create a humorous setting. While they are often unintentional and
+    known as a “slip of the tongue”, in literature they are welcomed as witty wordplay.
+  :example: The phrase “flesh and blood” being spoken as a character as “blesh and
+    flood” in urgency and heightened emotion.
+  :source: devices
+- :id: 1435
+  :name: Stanza
+  :definition: The term stanza refers to a single, related chunk of lines in poetry.
+    It basically refers to one unit or group of lines, which forms one particular
+    faction in poetry. The most basic kind of stanza is usually 4 lines per group,
+    with the simplest rhyme scheme “a-b-a-b” being followed.
+  :example: “The greedy paddy cat, Chased after the mice; She got so round and fat,
+    But it tasted so nice”
+  :source: devices
+- :id: 1436
+  :name: Stream of consciousness
+  :definition: The phrase ‘stream of consciousness’ refers to an uninterrupted and
+    unhindered collection and occurrence of thoughts and ideas in the conscious mind.
+    In literature, the phrase refers to the flow of these thoughts, with reference
+    to a particular character’s thinking process. This literary device is usually
+    used in order to provide a narrative in the form of the character’s thoughts instead
+    of using dialogue or description.
+  :example: All writings by Virginia Woolff are a good example of literary stream
+    of consciousness. "Life is not a series of gig lamps symmetrically arranged; life
+    is a luminous halo, a semi-transparent envelope surrounding us from the beginning
+    of consciousness to the end." The Common Reader (1925)
+  :source: devices
+- :id: 1437
+  :name: Suspense
+  :definition: Suspense is the intense feeling that an audience goes through while
+    waiting for the outcome of certain events. It basically leaves the reader holding
+    their breath and wanting more information. The amount of intensity in a suspenseful
+    moment is why it is hard to put a book down. Without suspense, a reader would
+    lose interest quickly in any story because there is nothing that is making the
+    reader ask, “What’s going to happen next?” In writing, there has to be a series
+    of events that leads to a climax that captivates the audience and makes them tense
+    and anxious to know what is going to happen.
+  :example: A cliffhanger is a great way to create suspense. You remember when you
+    were a kid and very excited to watch those Saturday morning shows. You can probably
+    recall the feeling you had at the pit of your stomach when, after about 25 minutes
+    and lots of commercials, you were hoping to find out what happened to your favorite
+    character. However, you didn’t get to find out. Instead they would make the “Tune
+    In Next Week” announcement and you already knew that you would be there. Same
+    time, same place. Suspense is a powerful literary tool because, if done correctly,
+    you know your audience will be back for more and more.
+  :source: devices
+- :id: 1438
+  :name: Symbol
+  :definition: A symbol is literary device that contains several layers of meaning,
+    often concealed at first sight, and is representative of several other aspects,
+    concepts or traits than those that are visible in the literal translation alone.
+    Symbol is using an object or action that means something more than its literal
+    meaning.
+  :example: The phrase “a new dawn” does not talk only about the actual beginning
+    of a new day but also signifies a new start, a fresh chance to begin and the end
+    of a previous tiring time.
+  :source: devices
+- :id: 1439
+  :name: Synecdoche
+  :definition: A synecdoche is a literary devices that uses a part of something to
+    refer to the whole. It is somewhat rhetorical in nature, where the entire object
+    is represented by way of a faction of it or a faction of the object is symbolized
+    by the full.
+  :example: “Weary feet in the walk of life”, does not refer to the feet actually
+    being tired or painful; it is symbolic of a long, hard struggle through the journey
+    of life and feeling low, tired, unoptimistic and ‘the walk of life’ does not represent
+    an actual path or distance covered, instead refers to the entire sequence of life
+    events that has made the person tired.
+  :source: devices
+- :id: 1440
+  :name: Synesthesia
+  :definition: While the term synesthesia literally refers to a medical condition
+    wherein one or many of the sensory modalities become joined to one another, in
+    literature it refers to the depiction of a strong connection, link or bond between
+    the different senses. Characters in literature are sometimes described to be experiences
+    synesthesia. Synesthesia is the conflation of the senses.
+  :example: The Sound of Blue by Hollu Payne which portrays synesthesia with respect
+    to the Romantic ideal.
+  :source: devices
+- :id: 1441
+  :name: Syntax
+  :definition: Syntax in literature refers to the actual way in which words and sentences
+    are placed together in the writing. Usually in the English language the syntax
+    should follow a pattern of subject-verb-object agreement but sometimes authors
+    play around with this to achieve a lyrical, rhythmic, rhetoric or questioning
+    effect. It is not related to the act of choosing specific words or even the meaning
+    of each word or the overall meanings conveyed by the sentences.
+  :example: The sentence "The man drives the car" would follow normal syntax in the
+    English language. By changing the syntax to "The car drives the man", the sentence
+    becomes awkward.
+  :source: devices
+- :id: 1442
+  :name: Theme
+  :definition: The theme of any literary work is the base topic or focus that acts
+    as a foundation for the entire literary piece. The theme links all aspects of
+    the literary work with one another and is basically the main subject. The theme
+    can be an enduring pattern or motif throughout the literary work, occurring in
+    a complex, long winding manner or it can be short and succinct and provide a certain
+    insight into the story.
+  :example: The main theme in the play Romeo and Juliet was love with smaller themes
+    of sacrifice, tragedy, struggle, hardship, devotion and so on.
+  :source: devices
+- :id: 1443
+  :name: Tone
+  :definition: The tone of a literary work is the perspective or attitude that the
+    author adopts with regards to a specific character, place or development. Tone
+    can portray a variety of emotions ranging from solemn, grave, and critical to
+    witty, wry and humorous. Tone helps the reader ascertain the writer’s feelings
+    towards a particular topic and this in turn influences the reader’s understanding
+    of the story.
+  :example: In her Harry Potter series, author J.K. Rowling has taken an extremely
+    positive, inspiring and uplifting tone towards the idea of love and devotion.
+  :source: devices
+- :id: 1444
+  :name: Tragedy
+  :definition: ! 'In literature, the concept of tragedy refer to a series of unfortunate
+    events by which one or more of the literary characters in the story undergo several
+    misfortunes, which finally culminate into a disaster of ‘epic proportions’. Tragedy
+    is generally built up in 5 stages: a) happy times b) the introduction of a problem
+    c) the problem worsens to a crisis or dilemma d) the characters are unable to
+    prevent the problem from taking over e) the problem results in some catastrophic,
+    grave ending, which is the tragedy culminated.'
+  :example: ! 'In the play Julius Caesar, the lead character is an ambitious, fearless
+    and power hungry king who ignores all the signs and does not heed the advice of
+    the well-meaning: finally being stabbed to death by his own best friend and advisor
+    Brutus. This moment has been immortalized by the phrase “Et tu Brutus?”, wherein
+    Caesar realizes that he has finally been defeated, and that too through betrayal.'
+  :source: devices
+- :id: 1445
+  :name: Understatement
+  :definition: This literary device refers to the practice of drawing attention to
+    a fact that is already obvious and noticeable. Understating a fact is usually
+    done by way of sarcasm, irony, wryness or any other form of dry humor. Understating
+    something is akin to exaggerating its obviousness as a means of humor.
+  :example: The phrase, “Oh! I wonder if he could get any later; I am free all day
+    long”. Said in a sarcastic tone it indicates that the speaker obviously means
+    the opposite of the literal meaning.
+  :source: devices
+- :id: 1446
+  :name: Verisimilitude
+  :definition: Verisimilitude tends to be based around the appearance or proximity
+    to being real, or the truth. It was a large part of the work of Karl Popper, and
+    can be used in a variety of different ways to describe something, as well. It
+    is a way of implying the believability or likelihood of a theory or narrative.
+    However, just because something can be described as having Verisimilitude does
+    not mean that it is true, only that merely appears to or seems to be true.
+  :example: It can be used in a variety of ways, for example; “While some dislike
+    the content of the novel due to its graphic nature, you cannot deny that the content
+    certainly gives the book some Verisimilitude” An example of Verisimilitude in
+    concept, though, could be a doubtful statement in a court of law or even a false
+    testimonial for a restaurant. If something “seems” like it’s all well and good,
+    but you can’t quite decide, then it can be said to have Verisimilitude.
+  :source: devices
+- :id: 1447
+  :name: Verse
+  :definition: The literary term ‘verse’ is used to refer to any single, lone line
+    of a poetry composition. A metrical writing line is known as verse. The word can
+    however, also refer to a stanza or any other part of the poetry.
+  :example: A single line or stanze in poetry would be an example of verse.
+  :source: devices
+- :id: 1448
+  :name: Absurdity
+  :definition: The exaggeration of a point beyond belief.
+  :example: 
+  :source: wikipedia
+- :id: 1449
+  :name: Accumulatio
+  :definition: The emphasis or summary of previously made points or inferences by
+    excessive praise or accusation.
+  :example: 
+  :source: wikipedia
+- :id: 1450
+  :name: Acutezza
+  :definition: Wit or wordplay used in rhetoric.
+  :example: 
+  :source: wikipedia
+- :id: 1451
+  :name: Ad hominem
+  :definition: Appealing to one's prejudice, emotions, or special interest rather
+    than to one's reason.
+  :example: 
+  :source: wikipedia
+- :id: 1452
+  :name: Adjunction
+  :definition: When a verb is placed at the beginning or the end of a sentence instead
+    of in the middle
+  :example: 
+  :source: wikipedia
+- :id: 1453
+  :name: Aesthetics
+  :definition: The examination of symbolic expression to determine its rhetorical
+    possibilities.
+  :example: 
+  :source: wikipedia
+- :id: 1454
+  :name: Aetiologia
+  :definition: Giving a cause or a reason.
+  :example: 
+  :source: wikipedia
+- :id: 1455
+  :name: Affectus
+  :definition: A term used by the Italian Humanists of the Renaissance to describe
+    the source of emotions or passions in the human mind.
+  :example: 
+  :source: wikipedia
+- :id: 1456
+  :name: Agenda
+  :definition: That which a persuader successfully makes salient and then spins [see
+    Vatz, Richard E.]
+  :example: 
+  :source: wikipedia
+- :id: 1457
+  :name: Alloisis
+  :definition: The breaking down of a subject into its alternatives.
+  :example: 
+  :source: wikipedia
+- :id: 1458
+  :name: Ambigua
+  :definition: An ambiguous statement used in making puns.
+  :example: 
+  :source: wikipedia
+- :id: 1459
+  :name: Amplificatio
+  :definition: An all-purpose term for all the ways an argument can be expanded and
+    enhanced.
+  :example: 
+  :source: wikipedia
+- :id: 1460
+  :name: Amplification
+  :definition: The act and the means of extending thoughts or statements to increase
+    rhetorical effect, to add importance, or to make the most of a thought or circumstance.
+  :example: 
+  :source: wikipedia
+- :id: 1461
+  :name: Anacoenosis
+  :definition: A speaker asks his or her audience or opponents for their opinion or
+    answer to the point in question.
+  :example: 
+  :source: wikipedia
+- :id: 1462
+  :name: Anacoluthon
+  :definition: An abrupt change of syntax within a sentence
+  :example: 
+  :source: wikipedia
+- :id: 1463
+  :name: Anadiplosis
+  :definition: Repeating the last word of one clause or phrase to begin the next.
+  :example: 
+  :source: wikipedia
+- :id: 1464
+  :name: Analogy
+  :definition: The use of a similar or parallel case or example to reason or argue
+    a point.
+  :example: 
+  :source: wikipedia
+- :id: 1465
+  :name: Anaphora
+  :definition: From the Greek ἀναφέρω, "I repeat"
+  :example: 
+  :source: wikipedia
+- :id: 1466
+  :name: Anastrophe
+  :definition: Inversion of the natural word order.
+  :example: 
+  :source: wikipedia
+- :id: 1467
+  :name: Anecdote
+  :definition: A brief narrative describing an interesting or amusing event.
+  :example: 
+  :source: wikipedia
+- :id: 1468
+  :name: Animorum motus
+  :definition: The emotions.
+  :example: 
+  :source: wikipedia
+- :id: 1469
+  :name: Antanaclasis
+  :definition: From Greek ̩ ̩ἀντανάκλασις, a figure of speech involving a pun, consisting
+    of the repeated use of the same word, each time with different meanings.
+  :example: 
+  :source: wikipedia
+- :id: 1470
+  :name: Anthimeria
+  :definition: Substitution of one part of speech for another (such as a noun used
+    as a verb)
+  :example: 
+  :source: wikipedia
+- :id: 1471
+  :name: Antimetabole
+  :definition: Repetition of two words or short phrases, but in reversed order to
+    establish a contrast
+  :example: 
+  :source: wikipedia
+- :id: 1472
+  :name: Antinome
+  :definition: (pronounced an-ta-nome) Two ideas about the same topic that can be
+    worked out to a logical conclusion, but the conclusions contradict each other.
+  :example: 
+  :source: wikipedia
+- :id: 1473
+  :name: Antiptosis
+  :definition: The substitution of one case for another.
+  :example: 
+  :source: wikipedia
+- :id: 1474
+  :name: Antistrophe
+  :definition: In rhetoric, repeating the last word in successive phrases
+  :example: 
+  :source: wikipedia
+- :id: 1475
+  :name: Antithesis
+  :definition: The juxtaposition of contrasting ideas in balanced or parallel words,
+    phrases, or grammatical structures; the second stage of the dialectic process.
+  :example: 
+  :source: wikipedia
+- :id: 1476
+  :name: Antonomasia
+  :definition: The substitution of an epithet for a proper name.
+  :example: 
+  :source: wikipedia
+- :id: 1477
+  :name: Aphaeresis
+  :definition: The omission of a syllable from the beginning of a word.
+  :example: 
+  :source: wikipedia
+- :id: 1478
+  :name: Apocope
+  :definition: The omission of the last letter or syllable of a word.
+  :example: 
+  :source: wikipedia
+- :id: 1479
+  :name: Apophasis / Apophesis
+  :definition: Pretending to deny something as a means of implicitly affirming it
+  :example: 
+  :source: wikipedia
+- :id: 1480
+  :name: Aporia
+  :definition: An attempt to discredit an opposing viewpoint by casting doubt on it.
+  :example: 
+  :source: wikipedia
+- :id: 1481
+  :name: Aposiopesis
+  :definition: An abrupt stop in the middle of a sentence; used by a speaker to convey
+    unwillingness or inability to complete a thought or statement.
+  :example: 
+  :source: wikipedia
+- :id: 1482
+  :name: Apostrophe
+  :definition: From Greek ἀποστροφή, a figure of speech consisting of a sudden turn
+    in a text towards an exclamatory address to an imaginary person or a thing.
+  :example: 
+  :source: wikipedia
+- :id: 1483
+  :name: Appeals
+  :definition: Rhetorical devices used to enhance the plausibility of one's argument;
+    Aristotle's appeals included ethos, logos, and pathos.
+  :example: 
+  :source: wikipedia
+- :id: 1484
+  :name: Apposition
+  :definition: The placement two words or phrases side by side with one element serving
+    to define or modify the other.
+  :example: 
+  :source: wikipedia
+- :id: 1485
+  :name: Arete
+  :definition: Virtue, excellence of character, qualities that would be inherent in
+    a "natural leader," a component of ethos.
+  :example: 
+  :source: wikipedia
+- :id: 1486
+  :name: Argument
+  :definition: Discourse characterized by reasons advanced to support conclusions.
+  :example: 
+  :source: wikipedia
+- :id: 1487
+  :name: Argumentum ad baculum
+  :definition: Settling a question by appealing to force.
+  :example: 
+  :source: wikipedia
+- :id: 1488
+  :name: Argumentum ad hominem
+  :definition: Using what you know about your opponent's character as a basis for
+    your argument.
+  :example: 
+  :source: wikipedia
+- :id: 1489
+  :name: Arrangement
+  :definition: See dispositio.
+  :example: 
+  :source: wikipedia
+- :id: 1490
+  :name: Ars arengandi
+  :definition: Teaching of forensic speaking during the Medieval rhetorical era.
+  :example: 
+  :source: wikipedia
+- :id: 1491
+  :name: Ars dictaminis
+  :definition: The art of writing letters, introduced and taught during the Medieval
+    rhetorical era.
+  :example: 
+  :source: wikipedia
+- :id: 1492
+  :name: Ars poetria
+  :definition: Medieval teaching of grammar and style through analysis of poetry.
+  :example: 
+  :source: wikipedia
+- :id: 1493
+  :name: Ars praedicandi
+  :definition: The art of preaching based on rhetorical ideas and introduced during
+    the Medieval rhetorical era during an increasing intersection between rhetoric
+    and religion.
+  :example: 
+  :source: wikipedia
+- :id: 1494
+  :name: Artistic proofs
+  :definition: Rhetorically-produced methods for persuasion
+  :example: 
+  :source: wikipedia
+- :id: 1495
+  :name: Assonance
+  :definition: Words that have the same sound but different spelling like "Blue Moon"
+  :example: 
+  :source: wikipedia
+- :id: 1496
+  :name: Asyndeton
+  :definition: The deliberate omission of conjunctions that would normally be used.
+  :example: 
+  :source: wikipedia
+- :id: 1497
+  :name: Audience
+  :definition: Real, imagined, invoked, or ignored, this is a concept that seems to
+    be at the very center of the intersections of composing and rhetoric.
+  :example: 
+  :source: wikipedia
+- :id: 1498
+  :name: Aureation
+  :definition: The use of Latinate and polysyllabic terms to "heighten" diction
+  :example: 
+  :source: wikipedia
+- :id: 1499
+  :name: Auxesis
+  :definition: To place words or phrases in a certain order to obtain a climactic
+    effect.
+  :example: 
+  :source: wikipedia
+- :id: 1500
+  :name: Axioms
+  :definition: The point where scientific reasoning starts
+  :example: 
+  :source: wikipedia
+- :id: 1501
+  :name: Backing
+  :definition: Supporting an argument's merit.
+  :example: 
+  :source: wikipedia
+- :id: 1502
+  :name: Barbarism
+  :definition: Use of a non-standard word, expression or pronunciation in a language,
+    particularly one prescriptively regarded as an error in morphology.
+  :example: 
+  :source: wikipedia
+- :id: 1503
+  :name: Bases
+  :definition: The issues at question in a judicial case.
+  :example: 
+  :source: wikipedia
+- :id: 1504
+  :name: Bathos
+  :definition: An emotional appeal that inadvertently evokes laughter or ridicule.
+  :example: 
+  :source: wikipedia
+- :id: 1505
+  :name: Bdelygmia
+  :definition: Expression of hatred or contempt.
+  :example: 
+  :source: wikipedia
+- :id: 1506
+  :name: Belles lettres
+  :definition: Written works considered quality because they are pleasing to the senses.
+  :example: 
+  :source: wikipedia
+- :id: 1507
+  :name: Belletristic movement
+  :definition: Movement of rhetoric in the late 18th and early 19th centuries emphasizing
+    stylistic considerations of rhetoric
+  :example: 
+  :source: wikipedia
+- :id: 1508
+  :name: Bomphiologia
+  :definition: ! 'Bombastic speech: a rhetorical technique wherein the speaker brags
+    excessively'
+  :example: 
+  :source: wikipedia
+- :id: 1509
+  :name: Brachylogia
+  :definition: Brevity of diction
+  :example: 
+  :source: wikipedia
+- :id: 1510
+  :name: Brevitas
+  :definition: Concise expression
+  :example: 
+  :source: wikipedia
+- :id: 1511
+  :name: Burden of proof
+  :definition: Theory of argument giving the obligation of proving a case to the challenging
+    party.
+  :example: 
+  :source: wikipedia
+- :id: 1512
+  :name: Buzzword
+  :definition: A word or phrase used to impress, or one that is fashionable.
+  :example: 
+  :source: wikipedia
+- :id: 1513
+  :name: Canon
+  :definition: A term often used to discuss significant literary works in a specific
+    field, used by Cicero to outline five significant parts of the rhetorical composition
+    process.
+  :example: 
+  :source: wikipedia
+- :id: 1514
+  :name: Captatio benevolentiae
+  :definition: Any literary or oral device which seeks to secure the goodwill of the
+    recipient or hearer, as in a letter or in a discussion.
+  :example: 
+  :source: wikipedia
+- :id: 1515
+  :name: Catachresis
+  :definition: The inexact use of a similar word in place of the proper one to create
+    an unlikely metaphor
+  :example: 
+  :source: wikipedia
+- :id: 1516
+  :name: Charisma
+  :definition: An attribute that allows a speaker's words to become powerful.
+  :example: 
+  :source: wikipedia
+- :id: 1517
+  :name: Chiasmus
+  :definition: From the name of the Greek letter "χ", a figure of speech consisting
+    of the contrasting of two structurally parallel syntactic phrases arranged "cross-wise",
+    i.e
+  :example: 
+  :source: wikipedia
+- :id: 1518
+  :name: Circa rem
+  :definition: ! 'Latin: The circumstances surrounding the act in one Roman topical
+    system.'
+  :example: 
+  :source: wikipedia
+- :id: 1519
+  :name: Claim 1
+  :definition: A primary point being made to support an argument
+  :example: 
+  :source: wikipedia
+- :id: 1520
+  :name: Classicism
+  :definition: A revival in the interest of classical antiquity languages and texts.
+  :example: 
+  :source: wikipedia
+- :id: 1521
+  :name: Climax
+  :definition: Climax occurs when words or sentences are used to increase weight by
+    mounting degrees in parallel construction.
+  :example: 
+  :source: wikipedia
+- :id: 1522
+  :name: Colon
+  :definition: A colon (Greek κῶλον) is a rhetorical figure consisting of a clause
+    which is grammatically, but not logically, complete.
+  :example: 
+  :source: wikipedia
+- :id: 1523
+  :name: Colloquialism
+  :definition: A word or phrase that is not formal or literary, typically one used
+    in ordinary or familiar conversation.
+  :example: 
+  :source: wikipedia
+- :id: 1524
+  :name: Common topics
+  :definition: Arguments and approaches useful in rhetorical settings; koinoi topoi.
+  :example: 
+  :source: wikipedia
+- :id: 1525
+  :name: Consubstantiality
+  :definition: Substance commonality.
+  :example: 
+  :source: wikipedia
+- :id: 1526
+  :name: Conclusio
+  :definition: ! 'Latin: A letter''s conclusion.'
+  :example: 
+  :source: wikipedia
+- :id: 1527
+  :name: Confirmatio
+  :definition: ! 'Latin: The section of a judicial speech (in Roman rhetorical theory)
+    that offers evidence supporting the claims given during the statement of facts.'
+  :example: 
+  :source: wikipedia
+- :id: 1528
+  :name: Confutatio
+  :definition: ! 'Latin: Counterargument in Roman rhetorical theory.'
+  :example: 
+  :source: wikipedia
+- :id: 1529
+  :name: Constraints
+  :definition: Referring to "persons, events, objects, and relations which are parts
+    of the situation because they have the power to constrain decision and action
+    needed to modify the exigence." Originally used by Lloyd Bitzer.
+  :example: 
+  :source: wikipedia
+- :id: 1530
+  :name: Contingency
+  :definition: In rhetoric, it relates to the contextual circumstances that do not
+    allow an issue to be settled with complete certainty.
+  :example: 
+  :source: wikipedia
+- :id: 1531
+  :name: Context
+  :definition: The circumstances surrounding an issue that should be considered during
+    its discussion.
+  :example: 
+  :source: wikipedia
+- :id: 1532
+  :name: Conversio
+  :definition: ! 'Latin: Varrying sentence structure to discover its most agreeable
+    form.'
+  :example: 
+  :source: wikipedia
+- :id: 1533
+  :name: Conversation model
+  :definition: The model, in critique of traditional rhetoric by Sally Gearhart, that
+    maintains the goal of rhetoric is to persuade others to accept your own personal
+    view as correct.
+  :example: 
+  :source: wikipedia
+- :id: 1534
+  :name: Cookery
+  :definition: Plato believed rhetoric was to truth as cookery was to medicine
+  :example: 
+  :source: wikipedia
+- :id: 1535
+  :name: Critical theory
+  :definition: Systematically analyzing any means of communication for hidden assumptions
+    and connotations.
+  :example: 
+  :source: wikipedia
+- :id: 1536
+  :name: Concession
+  :definition: Acknowledgment of objections to a proposal
+  :example: 
+  :source: wikipedia
+- :id: 1537
+  :name: Data
+  :definition: Stephen Toulmin
+  :example: 
+  :source: wikipedia
+- :id: 1538
+  :name: Deconstruction
+  :definition: Analyzing communication artifacts by scrutinizing their meaning and
+    related assumptions, with the goal of determining the social and systemic connotations
+    behind their structure.
+  :example: 
+  :source: wikipedia
+- :id: 1539
+  :name: Deduction
+  :definition: Moving from an overall hypothesis to infer something specific about
+    that hypothesis.
+  :example: 
+  :source: wikipedia
+- :id: 1540
+  :name: Delivery
+  :definition: ! 'Canon #5 in Cicero''s list of rhetorical canons; traditionally linked
+    to oral rhetoric, refers to how a speech is given (including tone of voice and
+    nonverbal gestures, among others).'
+  :example: 
+  :source: wikipedia
+- :id: 1541
+  :name: ! ' Demos'
+  :definition: The ordinary citizens of an ancient Greek city-state, considered as
+    a political entity; population; the common people.
+  :example: 
+  :source: wikipedia
+- :id: 1542
+  :name: Dialectic
+  :definition: A rhetorical term that has been defined differently by Aristotle and
+    Ramus, among others; generally, it means using verbal communication between people
+    to discuss topics in order to come to an agreement about them.
+  :example: 
+  :source: wikipedia
+- :id: 1543
+  :name: Diallage
+  :definition: Establishing a single point with the use of several arguments.
+  :example: 
+  :source: wikipedia
+- :id: 1544
+  :name: Dictamen
+  :definition: The art of writing letters.
+  :example: 
+  :source: wikipedia
+- :id: 1545
+  :name: Dispositio
+  :definition: In the classical theory of the production of speech Pronuntiatio dispositio
+    refers to the stage of planning the structure and sequence of ideas
+  :example: 
+  :source: wikipedia
+- :id: 1546
+  :name: Dissoi logoi
+  :definition: Contradictory arguments.
+  :example: 
+  :source: wikipedia
+- :id: 1547
+  :name: Distribution
+  :definition: Dividing a whole subject into its various parts.
+  :example: 
+  :source: wikipedia
+- :id: 1548
+  :name: Divisio
+  :definition: To divide into categories or classes.
+  :example: 
+  :source: wikipedia
+- :id: 1549
+  :name: Docere
+  :definition: To teach; viewed by Cicero as one of the three goals of rhetoric.
+  :example: 
+  :source: wikipedia
+- :id: 1550
+  :name: Dysphemism
+  :definition: A term with negative associations for something in reality fairly innocuous
+    or inoffensive.
+  :example: 
+  :source: wikipedia
+- :id: 1551
+  :name: Ecphonesis
+  :definition: A sentence consisting of a single word or short phrase ending with
+    an exclamation point.
+  :example: 
+  :source: wikipedia
+- :id: 1552
+  :name: Ellipse
+  :definition: The suppression of ancillary words to render an expression more lively
+    or more forceful.
+  :example: 
+  :source: wikipedia
+- :id: 1553
+  :name: Elocutio
+  :definition: In the classical theory of the production of a speech (Pronuntiatio),
+    elocution refers to the stage of elaborating the wording of a text, using correct
+    grammar and diction.
+  :example: 
+  :source: wikipedia
+- :id: 1554
+  :name: Enallage
+  :definition: The switching of grammatical forms for an expressive purpose.
+  :example: 
+  :source: wikipedia
+- :id: 1555
+  :name: Energia
+  :definition: The latin word for 'energy' that was used by Aristotle in reference
+    to the force or vigor of expression in writing or speech.
+  :example: 
+  :source: wikipedia
+- :id: 1556
+  :name: Enthymeme
+  :definition: A type of argument that is grounded in assumed commonalities between
+    a rhetor and the audience
+  :example: 
+  :source: wikipedia
+- :id: 1557
+  :name: Enumeratio
+  :definition: ! 'Making a point more forcibly by listing detailed causes or effects;
+    to enumerate: count off or list one by one.'
+  :example: 
+  :source: wikipedia
+- :id: 1558
+  :name: Epanalepsis
+  :definition: A figure of speech in which the same word or phrase appears both at
+    the beginning and at the end of a clause.
+  :example: 
+  :source: wikipedia
+- :id: 1559
+  :name: Epanaphora
+  :definition: In rhetoric, repeating the same word or phrase at the beginning of
+    successive phrases for emphasis
+  :example: 
+  :source: wikipedia
+- :id: 1560
+  :name: Epideictic
+  :definition: Ceremonial rhetoric, such as might be found in a funeral or victory
+    speech.
+  :example: 
+  :source: wikipedia
+- :id: 1561
+  :name: Epiphora
+  :definition: The repetition of a phrase or word at the end of several sentences
+    or clauses
+  :example: 
+  :source: wikipedia
+- :id: 1562
+  :name: Epistemology
+  :definition: Philosophical study directed at understanding how people gain knowledge.
+  :example: 
+  :source: wikipedia
+- :id: 1563
+  :name: Epistrophe
+  :definition: A succession of clauses, phrases or sentences that all end with the
+    same word or group of words.
+  :example: 
+  :source: wikipedia
+- :id: 1564
+  :name: Epithet
+  :definition: A term used as a descriptive and qualifying substitute for the name
+    of a person, place or thing.
+  :example: 
+  :source: wikipedia
+- :id: 1565
+  :name: Epizeuxis
+  :definition: Emphasizing an idea using one word repetition.
+  :example: 
+  :source: wikipedia
+- :id: 1566
+  :name: Eristic
+  :definition: Communicating with the aim of winning the argument regardless of truth
+  :example: 
+  :source: wikipedia
+- :id: 1567
+  :name: Erotema
+  :definition: The so-called 'Rhetorical Question', where a question is asked to which
+    an answer is not expected.
+  :example: 
+  :source: wikipedia
+- :id: 1568
+  :name: Ethos
+  :definition: A rhetorical appeal to an audience based on the speaker/writer's credibility.
+  :example: 
+  :source: wikipedia
+- :id: 1569
+  :name: Ethopoeia
+  :definition: The act of putting oneself into the character of another to convey
+    that persons feelings and thoughts more vividly.
+  :example: 
+  :source: wikipedia
+- :id: 1570
+  :name: Euphemism
+  :definition: An innocuous, inoffensive or circumlocutory term or phrase for something
+    unpleasant or obscene
+  :example: 
+  :source: wikipedia
+- :id: 1571
+  :name: Evidence
+  :definition: In rhetoric, facts or testimony used to strengthen a claim.
+  :example: 
+  :source: wikipedia
+- :id: 1572
+  :name: Exemplum
+  :definition: The citation of an example, either truthful or fictitious.
+  :example: 
+  :source: wikipedia
+- :id: 1573
+  :name: Exigence
+  :definition: A rhetorical call to action; a situation that compels someone to speak
+    out.
+  :example: 
+  :source: wikipedia
+- :id: 1574
+  :name: Exordium
+  :definition: ! 'The introductory (Lat: exordium, beginning) portion of an oration'
+  :example: 
+  :source: wikipedia
+- :id: 1575
+  :name: Expression
+  :definition: applying the correct language to an argument.
+  :example: 
+  :source: wikipedia
+- :id: 1576
+  :name: Fable
+  :definition: A short allegorical story.
+  :example: 
+  :source: wikipedia
+- :id: 1577
+  :name: Facetiae
+  :definition: Latin, humor or wit
+  :example: 
+  :source: wikipedia
+- :id: 1578
+  :name: ! 'Facilitas '
+  :definition: The improvising of effective oral or written language to suit any situation.
+  :example: 
+  :source: wikipedia
+- :id: 1579
+  :name: Faculty psychology
+  :definition: 18th century, the mind contains faculties that include understanding,
+    imagination, passion, and will.
+  :example: 
+  :source: wikipedia
+- :id: 1580
+  :name: False consciousness
+  :definition: Jurgen Habermas, a distorted view of reality, people, and the world.
+  :example: 
+  :source: wikipedia
+- :id: 1581
+  :name: Feminist rhetoric
+  :definition: Rhetorical theory concerned with feminism and its critique of social
+    structures.
+  :example: 
+  :source: wikipedia
+- :id: 1582
+  :name: Fictio
+  :definition: The attribution of rational traits to non-rational creatures.
+  :example: 
+  :source: wikipedia
+- :id: 1583
+  :name: Field-dependent
+  :definition: Stephen Toulmin's term, standards for assessing arguments that are
+    specific to a certain field.
+  :example: 
+  :source: wikipedia
+- :id: 1584
+  :name: Field-invariant
+  :definition: Stephen Toulmin's term, standards for assessing arguments that are
+    not determined by the particular field.
+  :example: 
+  :source: wikipedia
+- :id: 1585
+  :name: Figure
+  :definition: Unusual arrangement of language that tries to achieve unique meaning
+    for ideas.
+  :example: 
+  :source: wikipedia
+- :id: 1586
+  :name: Forensic oratory
+  :definition: speaking in a courtroom.
+  :example: 
+  :source: wikipedia
+- :id: 1587
+  :name: Gens
+  :definition: Latin, an influential group of families
+  :example: 
+  :source: wikipedia
+- :id: 1588
+  :name: Genera
+  :definition: (Plural of genus) Classification by race, kind, or possession of similarities;
+    descriptive of different types of oratory.
+  :example: 
+  :source: wikipedia
+- :id: 1589
+  :name: Graecismus
+  :definition: The use of Greek idiom.
+  :example: 
+  :source: wikipedia
+- :id: 1590
+  :name: Hendiadys
+  :definition: Using two nouns linked by a conjunction to express a single complex
+    idea.
+  :example: 
+  :source: wikipedia
+- :id: 1591
+  :name: Hermeneutics
+  :definition: The theoretical underpinnings of interpreting texts, usually religious
+    or literary.
+  :example: 
+  :source: wikipedia
+- :id: 1592
+  :name: Heteroglossia
+  :definition: Refers to use of a variety of voices or styles within one literary
+    work or context.
+  :example: 
+  :source: wikipedia
+- :id: 1593
+  :name: Heuristics
+  :definition: Determining or applying the proper methods for investigation.
+  :example: 
+  :source: wikipedia
+- :id: 1594
+  :name: Homologia
+  :definition: A tedious style or redundancy of style.
+  :example: 
+  :source: wikipedia
+- :id: 1595
+  :name: Homoioteleuton
+  :definition: From the Greek ομοιοτέλευτο (homoios, "like" and teleute, "ending")
+  :example: 
+  :source: wikipedia
+- :id: 1596
+  :name: Horismus
+  :definition: A brief and often antithetical definition.
+  :example: 
+  :source: wikipedia
+- :id: 1597
+  :name: Hypallage
+  :definition: A literary device that reverses the syntactic relation of two words
+    (as in "her beauty's face").
+  :example: 
+  :source: wikipedia
+- :id: 1598
+  :name: Hyperbaton
+  :definition: A figure of speech in which words that naturally belong together are
+    separated from each other for emphasis or effect.
+  :example: 
+  :source: wikipedia
+- :id: 1599
+  :name: Hyperbole
+  :definition: A figure of speech where emphasis is achieved through exaggeration,
+    independently or through comparison
+  :example: 
+  :source: wikipedia
+- :id: 1600
+  :name: Hypophora
+  :definition: When a speaker asks aloud what his/her adversaries have to say for
+    themselves or against the speaker, and then proceeds to answer the question
+  :example: 
+  :source: wikipedia
+- :id: 1601
+  :name: Hypothesis
+  :definition: An educated guess; usually a clause claiming "if" something happens,
+    "then" a result will come of it.
+  :example: 
+  :source: wikipedia
+- :id: 1602
+  :name: Hypsos
+  :definition: Great or worthy writing, sometimes called sublime
+  :example: 
+  :source: wikipedia
+- :id: 1603
+  :name: Hypozeuxis
+  :definition: A sentence in which every clause has its own subject and verb.
+  :example: 
+  :source: wikipedia
+- :id: 1604
+  :name: Hysteron proteron
+  :definition: A rhetorical device in which the first key word of the idea refers
+    to something that happens temporally later than the second key word
+  :example: 
+  :source: wikipedia
+- :id: 1605
+  :name: Icon
+  :definition: Using imagery to create resemblance.
+  :example: 
+  :source: wikipedia
+- :id: 1606
+  :name: Identification
+  :definition: Connecting with a larger group through a shared interpretation or understanding
+    of a larger concept; Kenneth Burke was one of the first people to use the term
+    in this way.
+  :example: 
+  :source: wikipedia
+- :id: 1607
+  :name: Ideology
+  :definition: A way of understanding one's external surroundings.
+  :example: 
+  :source: wikipedia
+- :id: 1608
+  :name: Ignoratio elenchi
+  :definition: A conclusion that is irrelevant.
+  :example: 
+  :source: wikipedia
+- :id: 1609
+  :name: Imitatio
+  :definition: Latin, imitation.
+  :example: 
+  :source: wikipedia
+- :id: 1610
+  :name: Inartistic proofs
+  :definition: Discovered information stemming from the raw data of experience.
+  :example: 
+  :source: wikipedia
+- :id: 1611
+  :name: Indefinite questions
+  :definition: In Quintlian, questions that are discussed without referring to anything
+    specifically.
+  :example: 
+  :source: wikipedia
+- :id: 1612
+  :name: Indignatio
+  :definition: To arouse indignation in the audience.
+  :example: 
+  :source: wikipedia
+- :id: 1613
+  :name: Induction
+  :definition: Rhetorical method for coming to general conclusions through specific
+    examples.
+  :example: 
+  :source: wikipedia
+- :id: 1614
+  :name: Ingenium
+  :definition: Latin, In Vico- the ability to understand similarities and relationships
+    that is innate in all humans.
+  :example: 
+  :source: wikipedia
+- :id: 1615
+  :name: In re
+  :definition: Latin, arguments concerned with what actually happened.
+  :example: 
+  :source: wikipedia
+- :id: 1616
+  :name: ! 'Institutio Oratoria '
+  :definition: Educational and rhetorical principles as described and prescribed in
+    treatise by Quintillian.
+  :example: 
+  :source: wikipedia
+- :id: 1617
+  :name: Insultatio
+  :definition: Abusing a person to his/her face by using irony and derisive language.
+  :example: 
+  :source: wikipedia
+- :id: 1618
+  :name: Interlacement
+  :definition: Combining the figures Antistrophe and Epanaphora for rhetorical style
+    and emphasis
+  :example: 
+  :source: wikipedia
+- :id: 1619
+  :name: Intersubjective agreements
+  :definition: agreements on the fair conduct of an argument among individuals participating
+    in dialogue.
+  :example: 
+  :source: wikipedia
+- :id: 1620
+  :name: Invention
+  :definition: Described by Cicero as the process of determining "valid or seemingly
+    valid arguments;" the first of his five rhetorical canons.
+  :example: 
+  :source: wikipedia
+- :id: 1621
+  :name: Invitational rhetoric
+  :definition: (Foss and Griffin, 1995) rhetoric involving "an invitation to understanding
+    as a means to create a relationship rooted in quality, immanent value, and self-determination."
+    Emphasizes the relationship between the speaker and freedoms of the audience to
+    make decisions for themselves in order to promote equality.
+  :example: 
+  :source: wikipedia
+- :id: 1622
+  :name: Ioci
+  :definition: Jokes, see Cicero's De Oratore and his theory of humor.
+  :example: 
+  :source: wikipedia
+- :id: 1623
+  :name: Irony
+  :definition: A deliberate contrast between indirect and direct meaning to draw attention
+    to the opposite.
+  :example: 
+  :source: wikipedia
+- :id: 1624
+  :name: Isocolon
+  :definition: A string of phrases of corresponding structure and equal length.
+  :example: 
+  :source: wikipedia
+- :id: 1625
+  :name: Issues of definition
+  :definition: Things related to naming an act.
+  :example: 
+  :source: wikipedia
+- :id: 1626
+  :name: Issues of fact
+  :definition: Issues related to an act's occurrence.
+  :example: 
+  :source: wikipedia
+- :id: 1627
+  :name: Issues of quality
+  :definition: Issues related to the seriousness of an act.
+  :example: 
+  :source: wikipedia
+- :id: 1628
+  :name: Jargon
+  :definition: Highly technical language used by specific group.
+  :example: 
+  :source: wikipedia
+- :id: 1629
+  :name: Judicial
+  :definition: Type of oratory used to attack or defend someone in a court of law.
+  :example: 
+  :source: wikipedia
+- :id: 1630
+  :name: Kairos
+  :definition: From the Greek word καιρος
+  :example: 
+  :source: wikipedia
+- :id: 1631
+  :name: Kategoria
+  :definition: Greek for Accusation.
+  :example: 
+  :source: wikipedia
+- :id: 1632
+  :name: Koinoi topoi
+  :definition: Common topics; in a rhetoric situation, useful arguments and strategies.
+  :example: 
+  :source: wikipedia
+- :id: 1633
+  :name: Koinonia
+  :definition: To consult with your opponent or judge.
+  :example: 
+  :source: wikipedia
+- :id: 1634
+  :name: Kolakeia
+  :definition: Flattery; telling people what they want to hear while disregarding
+    their best interests; employed by sophistic rhetoricians.
+  :example: 
+  :source: wikipedia
+- :id: 1635
+  :name: Latinitas
+  :definition: Stylistic feature involving the proper use of language.
+  :example: 
+  :source: wikipedia
+- :id: 1636
+  :name: Lexis
+  :definition: Style.
+  :example: 
+  :source: wikipedia
+- :id: 1637
+  :name: Literae humanae
+  :definition: ! 'Academic disciplines that are known as the liberal arts: languages,
+    philosophy, history, literature, music, art and certain abstract sciences.'
+  :example: 
+  :source: wikipedia
+- :id: 1638
+  :name: Litotes
+  :definition: Stating a positive by negating the negative — a form of understatement
+  :example: 
+  :source: wikipedia
+- :id: 1639
+  :name: Localism
+  :definition: A word, phrase, or custom particular to one's location.
+  :example: 
+  :source: wikipedia
+- :id: 1640
+  :name: Loci communes
+  :definition: Types of arguments
+  :example: 
+  :source: wikipedia
+- :id: 1641
+  :name: Locution
+  :definition: Refers to the utterance of a statement.
+  :example: 
+  :source: wikipedia
+- :id: 1642
+  :name: Logical fallacy
+  :definition: Misconceptions resulting from faulty reasoning.
+  :example: 
+  :source: wikipedia
+- :id: 1643
+  :name: Logical positivism
+  :definition: The effort to make scientific standards applicable for resolving all
+    issues.
+  :example: 
+  :source: wikipedia
+- :id: 1644
+  :name: Logical proof
+  :definition: Arguments used to persuade audience
+  :example: 
+  :source: wikipedia
+- :id: 1645
+  :name: Logos
+  :definition: Rhetorical appeals based on logic or reasoning.
+  :example: 
+  :source: wikipedia
+- :id: 1646
+  :name: Logology
+  :definition: Kenneth Burke
+  :example: 
+  :source: wikipedia
+- :id: 1647
+  :name: Major premise
+  :definition: Statement in a syllogism
+  :example: 
+  :source: wikipedia
+- :id: 1648
+  :name: Magnanimity
+  :definition: Doing good to others, "its opposite is meanness of spirit" (from Aristotle's
+    Rhetoric).
+  :example: 
+  :source: wikipedia
+- :id: 1649
+  :name: Material fallacy
+  :definition: False notion concerning the subject matter of an argument.
+  :example: 
+  :source: wikipedia
+- :id: 1650
+  :name: Maxim
+  :definition: ! '"A saying drawn from life, which shows concisely either what happens
+    or ought to happen in life, for example: ''Every beginning is difficult.''" (from
+    Rhetorica ad Herennium)'
+  :example: 
+  :source: wikipedia
+- :id: 1651
+  :name: Memory
+  :definition: Described by Cicero as the "firm mental grasp of matter and words;"
+    the fourth of his five rhetorical canons.
+  :example: 
+  :source: wikipedia
+- :id: 1652
+  :name: Metanarrative
+  :definition: Universal theories positing to know all aspects of humanity.
+  :example: 
+  :source: wikipedia
+- :id: 1653
+  :name: Metaphor
+  :definition: A figure of speech where a word that normally applies to one thing
+    is used to designate another for the sake of creating a mental picture
+  :example: 
+  :source: wikipedia
+- :id: 1654
+  :name: Metonymy
+  :definition: A figure of speech which substitutes one word or phrase for another
+    with which it is closely associated
+  :example: 
+  :source: wikipedia
+- :id: 1655
+  :name: Metron
+  :definition: Greek, measure.
+  :example: 
+  :source: wikipedia
+- :id: 1656
+  :name: Minor premise
+  :definition: Statement in an argument.
+  :example: 
+  :source: wikipedia
+- :id: 1657
+  :name: Modus inveniendi
+  :definition: Latin, in St Augustine, material used to understand the scriptures.
+  :example: 
+  :source: wikipedia
+- :id: 1658
+  :name: Modus proferendi
+  :definition: Latin, in St
+  :example: 
+  :source: wikipedia
+- :id: 1659
+  :name: Moral reasoning
+  :definition: Reasoning employed in rhetoric that determines a conclusion based on
+    evidence
+  :example: 
+  :source: wikipedia
+- :id: 1660
+  :name: Motive
+  :definition: Something that plays a role in one's decision to act.
+  :example: 
+  :source: wikipedia
+- :id: 1661
+  :name: Movere
+  :definition: To persuade; viewed by Cicero as one of the three goals of rhetoric.
+  :example: 
+  :source: wikipedia
+- :id: 1662
+  :name: Narratio
+  :definition: A presentation of essential facts in a judicial speech.
+  :example: 
+  :source: wikipedia
+- :id: 1663
+  :name: Narration
+  :definition: Story telling, involving the elements of time, place, actor, action,
+    cause and manner.
+  :example: 
+  :source: wikipedia
+- :id: 1664
+  :name: Necessary cause
+  :definition: Cause without which effect couldn't/wouldn't have occurred.
+  :example: 
+  :source: wikipedia
+- :id: 1665
+  :name: Negatio
+  :definition: To negate or deny.
+  :example: 
+  :source: wikipedia
+- :id: 1666
+  :name: Neoplatonism
+  :definition: School of thought emanating from the works of Plato and Aristotle in
+    early BCE Rome.
+  :example: 
+  :source: wikipedia
+- :id: 1667
+  :name: Noema
+  :definition: Speech that is deliberately subtle or obscure.
+  :example: 
+  :source: wikipedia
+- :id: 1668
+  :name: Nomos
+  :definition: Greek, a social custom or convention.
+  :example: 
+  :source: wikipedia
+- :id: 1669
+  :name: Non Sequitur
+  :definition: A statement bearing no relationship to the preceding context.
+  :example: 
+  :source: wikipedia
+- :id: 1670
+  :name: Notaries
+  :definition: Secretaries trained in rhetoric for dealing with the agreements that
+    were needed for commercial cities in Italy to function.
+  :example: 
+  :source: wikipedia
+- :id: 1671
+  :name: Occupatio
+  :definition: Introducing and responding to one's opponents' arguments before they
+    have the opportunity to bring them up
+  :example: 
+  :source: wikipedia
+- :id: 1672
+  :name: Oictos
+  :definition: To show pity or compassion.
+  :example: 
+  :source: wikipedia
+- :id: 1673
+  :name: Ominatio
+  :definition: A prophecy of evil.
+  :example: 
+  :source: wikipedia
+- :id: 1674
+  :name: Onomatopoeia
+  :definition: Words that imitate the sounds, objects, or actions they refer to
+  :example: 
+  :source: wikipedia
+- :id: 1675
+  :name: Opening
+  :definition: First part of discourse
+  :example: 
+  :source: wikipedia
+- :id: 1676
+  :name: Optatio
+  :definition: A wish exclaimed.
+  :example: 
+  :source: wikipedia
+- :id: 1677
+  :name: Orcos
+  :definition: An oath.
+  :example: 
+  :source: wikipedia
+- :id: 1678
+  :name: Oxymoron
+  :definition: A condensed paradox.
+  :example: 
+  :source: wikipedia
+- :id: 1679
+  :name: Parachesis
+  :definition: Repetition of the same sound in several words in close succession
+  :example: 
+  :source: wikipedia
+- :id: 1680
+  :name: Paradeigma
+  :definition: Greek, argument created by a list of examples that leads to a probable
+    generalized idea.
+  :example: 
+  :source: wikipedia
+- :id: 1681
+  :name: Paradiastole
+  :definition: Greek, redescription - usually in a better light.
+  :example: 
+  :source: wikipedia
+- :id: 1682
+  :name: Paralipsis
+  :definition: A form of apophasis when a rhetor introduces a subject by denying it
+    should be discussed
+  :example: 
+  :source: wikipedia
+- :id: 1683
+  :name: Parallel syntax
+  :definition: repetition of similar sentence structures.
+  :example: 
+  :source: wikipedia
+- :id: 1684
+  :name: Parallel structure
+  :definition: Using the same tense and structure.
+  :example: 
+  :source: wikipedia
+- :id: 1685
+  :name: Paraprosdokian
+  :definition: A sentence in which the latter half takes an unexpected turn.
+  :example: 
+  :source: wikipedia
+- :id: 1686
+  :name: Parenthesis
+  :definition: An explanatory or qualifying word, clause, or sentence inserted into
+    a passage that is not essential to the literal meaning.
+  :example: 
+  :source: wikipedia
+- :id: 1687
+  :name: Parisosis
+  :definition: When clauses have very similar lengths, as measured by syllables; sometimes
+    taken as equivalent to isocolon.
+  :example: 
+  :source: wikipedia
+- :id: 1688
+  :name: Parody
+  :definition: To imitate something or somebody comically.
+  :example: 
+  :source: wikipedia
+- :id: 1689
+  :name: Paromoiosis
+  :definition: Parallelism of sound between the words of two clauses approximately
+    equal in size
+  :example: 
+  :source: wikipedia
+- :id: 1690
+  :name: Paronomasia
+  :definition: A pun, a play on words, often for humorous effect.
+  :example: 
+  :source: wikipedia
+- :id: 1691
+  :name: Particular audience
+  :definition: In Perelman and Olbrechts-Tyteca, the actual audience the orator addresses.
+  :example: 
+  :source: wikipedia
+- :id: 1692
+  :name: Pathos
+  :definition: Greek, the emotional appeal to an audience in an argument
+  :example: 
+  :source: wikipedia
+- :id: 1693
+  :name: Perfectus orator
+  :definition: Latin, a complete orator.
+  :example: 
+  :source: wikipedia
+- :id: 1694
+  :name: Periphrasis
+  :definition: The substitution of many or several words where one would suffice;
+    usually to avoid using that particular word.
+  :example: 
+  :source: wikipedia
+- :id: 1695
+  :name: Peroratio
+  :definition: Latin, the last section of a judicial speech where the speaker is the
+    strongest.
+  :example: 
+  :source: wikipedia
+- :id: 1696
+  :name: Personification
+  :definition: A figure of speech that gives human characteristics to inanimate objects,
+    or represents an absent person as being present
+  :example: 
+  :source: wikipedia
+- :id: 1697
+  :name: Petitio
+  :definition: Latin, in a letter, an announcement, demand, or request.
+  :example: 
+  :source: wikipedia
+- :id: 1698
+  :name: Phallogocentrism
+  :definition: Examines the relationship between logos (reason) and the phallus (representative
+    of male genitalia)
+  :example: 
+  :source: wikipedia
+- :id: 1699
+  :name: Phronesis
+  :definition: Greek, practical wisdom; common sense.
+  :example: 
+  :source: wikipedia
+- :id: 1700
+  :name: Physis
+  :definition: Greek, nature.
+  :example: 
+  :source: wikipedia
+- :id: 1701
+  :name: Pian
+  :definition: Ancient China, the art of disputing.
+  :example: 
+  :source: wikipedia
+- :id: 1702
+  :name: Pistis
+  :definition: Greek, belief.
+  :example: 
+  :source: wikipedia
+- :id: 1703
+  :name: Plausibility
+  :definition: Rhetoric that is believable right away due to its association with
+    something that the audience already knows or has experienced.
+  :example: 
+  :source: wikipedia
+- :id: 1704
+  :name: Pleonasm
+  :definition: The use of more words than necessary to express an idea.
+  :example: 
+  :source: wikipedia
+- :id: 1705
+  :name: Poetriae,Ars
+  :definition: Latin, poetry as an art.
+  :example: 
+  :source: wikipedia
+- :id: 1706
+  :name: Polis
+  :definition: Greek, the city-state, especially the people in the city-state.
+  :example: 
+  :source: wikipedia
+- :id: 1707
+  :name: Polyphonic
+  :definition: Having multiple voices.
+  :example: 
+  :source: wikipedia
+- :id: 1708
+  :name: Polyptoton
+  :definition: The repetition of a word or root in different cases or inflections
+    within the same sentence.
+  :example: 
+  :source: wikipedia
+- :id: 1709
+  :name: Polysyndeton
+  :definition: The repeated use of conjunctions within a sentence, particularly where
+    they do not necessarily have to be used.
+  :example: 
+  :source: wikipedia
+- :id: 1710
+  :name: Portrayal
+  :definition: Describing a person clearly enough for recognition
+  :example: 
+  :source: wikipedia
+- :id: 1711
+  :name: Position
+  :definition: The stance taken by a rhetor that s/he is attempting to prove through
+    argumentation.
+  :example: 
+  :source: wikipedia
+- :id: 1712
+  :name: Positivism
+  :definition: Term created by Auguste Comte that posits that science, math, or logic
+    can prove any reasonable claim.
+  :example: 
+  :source: wikipedia
+- :id: 1713
+  :name: Postmodernism
+  :definition: Related to rhetoric, a field of inquiry concerned with the ideological
+    underpinnings of commonly held assumptions.
+  :example: 
+  :source: wikipedia
+- :id: 1714
+  :name: Praedicandi, Ars
+  :definition: Latin, Preaching.
+  :example: 
+  :source: wikipedia
+- :id: 1715
+  :name: Praegnans constructio
+  :definition: A form of brachylogy in which two clauses or two expressions are condensed
+    into one.
+  :example: 
+  :source: wikipedia
+- :id: 1716
+  :name: Pragmatism
+  :definition: Approach based on practical consideration and immediate perception
+    to the exclusion of moral (in the sense of 'should') and ethic arguments.
+  :example: 
+  :source: wikipedia
+- :id: 1717
+  :name: Pragmatographia
+  :definition: Description of an action (such as a battle, a feast, a marriage, a
+    burial, etc.).
+  :example: 
+  :source: wikipedia
+- :id: 1718
+  :name: Presence
+  :definition: In Perelman and Olbrechts-Tyteca, choosing to emphasize certain facts
+    and ideas instead of others, leading the audience along that path.
+  :example: 
+  :source: wikipedia
+- :id: 1719
+  :name: Presumption
+  :definition: An idea is reasonable or acceptable only until it is sufficiently challenged.
+  :example: 
+  :source: wikipedia
+- :id: 1720
+  :name: Prolepsis
+  :definition: A literary device in which a future state is spoken of in the present;
+    for example, a condemned man may be called a "dead man walking".
+  :example: 
+  :source: wikipedia
+- :id: 1721
+  :name: Proof surrogate
+  :definition: An expression used to suggest that there is evidence or authority for
+    a claim without actually citing such evidence or authority
+  :example: 
+  :source: wikipedia
+- :id: 1722
+  :name: Pronuntiato
+  :definition: ! 'Latin: The delivery of an oration or an argument in a manner befitting
+    the subject matter and style, while maintaining control of voice and body.'
+  :example: 
+  :source: wikipedia
+- :id: 1723
+  :name: Protreptic
+  :definition: Greek, the potential to persuade through language.
+  :example: 
+  :source: wikipedia
+- :id: 1724
+  :name: Prudence
+  :definition: Judging practically.
+  :example: 
+  :source: wikipedia
+- :id: 1725
+  :name: Psogos
+  :definition: Greek for blame.
+  :example: 
+  :source: wikipedia
+- :id: 1726
+  :name: Psychagogos
+  :definition: Greek for a poet.
+  :example: 
+  :source: wikipedia
+- :id: 1727
+  :name: Psyche
+  :definition: Greek for the mind or soul.
+  :example: 
+  :source: wikipedia
+- :id: 1728
+  :name: Public sphere
+  :definition: Place where individuals can engage in discussion without the political
+    or state interests interfering.
+  :example: 
+  :source: wikipedia
+- :id: 1729
+  :name: Purpose
+  :definition: What are we trying to do with our uses of language?[clarification needed]
+  :example: 
+  :source: wikipedia
+- :id: 1730
+  :name: Quadrivium
+  :definition: ! 'The major subjects taught in medieval times: geometry, arithmetic,
+    astronomy, and music.'
+  :example: 
+  :source: wikipedia
+- :id: 1731
+  :name: Quaestiones
+  :definition: Debatable points around which disputes are centered.
+  :example: 
+  :source: wikipedia
+- :id: 1732
+  :name: Reasoning by contraries
+  :definition: Where the first statement of two opposite statements directly proves
+    the second
+  :example: 
+  :source: wikipedia
+- :id: 1733
+  :name: Rebuttal
+  :definition: Stephen Toulmin's term, conditions on the acceptability of a claim.
+  :example: 
+  :source: wikipedia
+- :id: 1734
+  :name: Res
+  :definition: ! 'Latin: An argument''s substance.'
+  :example: 
+  :source: wikipedia
+- :id: 1735
+  :name: Rhetor
+  :definition: A person who is in the course of presenting or preparing rhetorical
+    discourse.
+  :example: 
+  :source: wikipedia
+- :id: 1736
+  :name: Rhetores
+  :definition: (Greek) Those who make a living by speaking persuasively.
+  :example: 
+  :source: wikipedia
+- :id: 1737
+  :name: Rhetoric
+  :definition: The study and practice of good effective expression
+  :example: 
+  :source: wikipedia
+- :id: 1738
+  :name: Rhetoric of fiction
+  :definition: Wayne Booth's idea "the author's judgement is always present" in a
+    narrative.
+  :example: 
+  :source: wikipedia
+- :id: 1739
+  :name: Rhetorical audience
+  :definition: Those who can be persuaded by rhetoric.
+  :example: 
+  :source: wikipedia
+- :id: 1740
+  :name: Rhetorical discourse
+  :definition: Discourse created within the boundary of the principles of rhetoric.
+  :example: 
+  :source: wikipedia
+- :id: 1741
+  :name: Rhetorical opposition
+  :definition: Protagoras's idea that there are two sides to everything.
+  :example: 
+  :source: wikipedia
+- :id: 1742
+  :name: Rhetorical question
+  :definition: A question asked to make a point instead of to elicit a direct answer.
+  :example: 
+  :source: wikipedia
+- :id: 1743
+  :name: Rhetorical situation
+  :definition: A term made popular by Lloyd Bitzer; describes the scenario that contains
+    a speech act, including the considerations (purpose, audience, author/speaker,
+    constraints to name a few) that play a role in how the act is produced and perceived
+    by its audience
+  :example: 
+  :source: wikipedia
+- :id: 1744
+  :name: Rhetorical theory
+  :definition: The organized presentation of the art or rhetoric, descriptions of
+    the various functions of rhetoric, and clarifications of how rhetoric achieves
+    its goals.
+  :example: 
+  :source: wikipedia
+- :id: 1745
+  :name: Salience/Agenda; Meaning/Spin
+  :definition: The basic components of all rhetorical struggles, per Richard E Vatz,
+    The Only Authentic Book of Persuasion, (Kendall Hunt, 2013)
+  :example: 
+  :source: wikipedia
+- :id: 1746
+  :name: Salon
+  :definition: Intellectual assembly in an aristocratic setting; primarily associated
+    with France in the 17th and 18th centuries.
+  :example: 
+  :source: wikipedia
+- :id: 1747
+  :name: Salutatio
+  :definition: (Latin) A written greeting.
+  :example: 
+  :source: wikipedia
+- :id: 1748
+  :name: Sannio
+  :definition: (Latin) the fool
+  :example: 
+  :source: wikipedia
+- :id: 1749
+  :name: Scesis Onomaton
+  :definition: (Latin) omit the verb
+  :example: 
+  :source: wikipedia
+- :id: 1750
+  :name: Scholasticism
+  :definition: Rhetorical study of Christianity that was intellectually prominent
+    in 11th–15th-century Western Europe, emphasizing rhetorical concepts by Aristotle
+    and a search for universal truth.
+  :example: 
+  :source: wikipedia
+- :id: 1751
+  :name: Scientific method
+  :definition: A system of observing and analyzing data through induction; prominent
+    school of thought since the 17th century whose proponents are often critical of
+    rhetoric.
+  :example: 
+  :source: wikipedia
+- :id: 1752
+  :name: Scientific reasoning
+  :definition: Moving from axioms to actual conclusions
+  :example: 
+  :source: wikipedia
+- :id: 1753
+  :name: Scientism
+  :definition: In Weaver, applying scientific assumptions to subjects that are not
+    completely natural.
+  :example: 
+  :source: wikipedia
+- :id: 1754
+  :name: Scientistic
+  :definition: Kenneth Burke
+  :example: 
+  :source: wikipedia
+- :id: 1755
+  :name: Second Sophistic
+  :definition: Rhetorical era in Rome that dealt primarily with rhetorical style through
+    some of the Greek Sophists' concepts, while neglecting its political and social
+    uses because of censorship.
+  :example: 
+  :source: wikipedia
+- :id: 1756
+  :name: Semantics
+  :definition: Philosophical study of language that deals with its connection to perceptions
+    of reality.
+  :example: 
+  :source: wikipedia
+- :id: 1757
+  :name: Semiotics
+  :definition: Branch of semantics concerning language and communication as a system
+    of symbols.
+  :example: 
+  :source: wikipedia
+- :id: 1758
+  :name: Sensus communis
+  :definition: A society's basic beliefs and values.
+  :example: 
+  :source: wikipedia
+- :id: 1759
+  :name: Sententia
+  :definition: Applying a general truth to a situation by quoting a maxim or other
+    wise saying as a conclusion or summary of that situation.
+  :example: 
+  :source: wikipedia
+- :id: 1760
+  :name: Shui
+  :definition: Formal persuasion in ancient China.
+  :example: 
+  :source: wikipedia
+- :id: 1761
+  :name: Sign
+  :definition: Term from semiotics that describes something that has meaning through
+    its connection to something else, like words.
+  :example: 
+  :source: wikipedia
+- :id: 1762
+  :name: Signifying
+  :definition: Term from semiotics that describes the method through which meaning
+    is created with arbitrary signs.
+  :example: 
+  :source: wikipedia
+- :id: 1763
+  :name: Simile
+  :definition: A figure of speech that compares unlike things, implying a resemblance
+    between them
+  :example: 
+  :source: wikipedia
+- :id: 1764
+  :name: Skepticism
+  :definition: Type of thought that questions whether universal truth exists and is
+    attainable by humans.
+  :example: 
+  :source: wikipedia
+- :id: 1765
+  :name: Solecismus
+  :definition: Ignorantly misusing tenses, cases, and genders.
+  :example: 
+  :source: wikipedia
+- :id: 1766
+  :name: Sophists
+  :definition: Considered the first professional teachers of oratory and rhetoric
+    (ancient Greece 4th century BC).
+  :example: 
+  :source: wikipedia
+- :id: 1767
+  :name: Soraismus
+  :definition: The ignorant or affected mingling of languages.
+  :example: 
+  :source: wikipedia
+- :id: 1768
+  :name: Sprezzatura
+  :definition: The ability to appear that there is seemingly little effort used to
+    attain success
+  :example: 
+  :source: wikipedia
+- :id: 1769
+  :name: Spin
+  :definition: In Vatz, the act of competing to infuse meaning into agenda items for
+    chosen audiences.
+  :example: 
+  :source: wikipedia
+- :id: 1770
+  :name: Starting points
+  :definition: In Perelman and Olbrechts-Tyteca, the place between the speaker and
+    audience where the argument can begin.
+  :example: 
+  :source: wikipedia
+- :id: 1771
+  :name: Stasis system
+  :definition: System of finding arguments by means of looking at ideas that are contradictory.
+  :example: 
+  :source: wikipedia
+- :id: 1772
+  :name: Status quo
+  :definition: ! 'Latin: The generally accepted existing condition or state of affairs.'
+  :example: 
+  :source: wikipedia
+- :id: 1773
+  :name: Straw man
+  :definition: An argument that is a logical fallacy based on misrepresentation of
+    an opponent's position.
+  :example: 
+  :source: wikipedia
+- :id: 1774
+  :name: Studia humanitatis
+  :definition: ! 'Latin: Humanistic studies deemed indispensable in Renaissance-era
+    education; rhetoric, poetics, ethics, politics.'
+  :example: 
+  :source: wikipedia
+- :id: 1775
+  :name: Syllepsis
+  :definition: A word modifying others in appropriate, though often incongruous ways
+  :example: 
+  :source: wikipedia
+- :id: 1776
+  :name: Syllogism
+  :definition: A type of valid argument that states if the first two claims are true,
+    then the conclusion is true
+  :example: 
+  :source: wikipedia
+- :id: 1777
+  :name: Syllogistic logic
+  :definition: Reasoning in the form of a syllogism.
+  :example: 
+  :source: wikipedia
+- :id: 1778
+  :name: Symbol
+  :definition: A visual or metaphorical representation of an idea or concept.
+  :example: 
+  :source: wikipedia
+- :id: 1779
+  :name: Symbolic inducement
+  :definition: Term coined by Kenneth Burke to refer to rhetoric.
+  :example: 
+  :source: wikipedia
+- :id: 1780
+  :name: Sympheron
+  :definition: (Greek) Path that is to one's advantage.
+  :example: 
+  :source: wikipedia
+- :id: 1781
+  :name: Symploce
+  :definition: A figure of speech in which several successive clauses have the same
+    first and last words.
+  :example: 
+  :source: wikipedia
+- :id: 1782
+  :name: Synchysis
+  :definition: Word order confusion within a sentence.
+  :example: 
+  :source: wikipedia
+- :id: 1783
+  :name: Syncope
+  :definition: The omission of letters from the middle of a word, usually replaced
+    by an apostrophe.
+  :example: 
+  :source: wikipedia
+- :id: 1784
+  :name: Synecdoche
+  :definition: A rhetorical device where one part of an object is used to represent
+    the whole
+  :example: 
+  :source: wikipedia
+- :id: 1785
+  :name: Tapinosis
+  :definition: Language or an epithet that is debasing
+  :example: 
+  :source: wikipedia
+- :id: 1786
+  :name: Taste
+  :definition: A learned admiration for things of beauty.
+  :example: 
+  :source: wikipedia
+- :id: 1787
+  :name: Tautologia
+  :definition: The same idea repeated in different words.
+  :example: 
+  :source: wikipedia
+- :id: 1788
+  :name: Taxis
+  :definition: The distribution of a proper adjunct to every subject.
+  :example: 
+  :source: wikipedia
+- :id: 1789
+  :name: Techne
+  :definition: Greek for a true art.
+  :example: 
+  :source: wikipedia
+- :id: 1790
+  :name: Terministic screens
+  :definition: term coined by Kenneth Burke to explain the way in which the world
+    is viewed when taking languages and words into consideration.
+  :example: 
+  :source: wikipedia
+- :id: 1791
+  :name: Theme
+  :definition: The central topic of discussion
+  :example: 
+  :source: wikipedia
+- :id: 1792
+  :name: Thesis
+  :definition: The major claim or premise made in an argument to be proved or dis-proved.
+  :example: 
+  :source: wikipedia
+- :id: 1793
+  :name: Thesmos
+  :definition: Greek
+  :example: 
+  :source: wikipedia
+- :id: 1794
+  :name: Tone
+  :definition: The author's voice in an essay through use of figurative language or
+    a style of enunciation in writing (also known as a diction)
+  :example: 
+  :source: wikipedia
+- :id: 1795
+  :name: Topical systems
+  :definition: Methods for finding arguments.
+  :example: 
+  :source: wikipedia
+- :id: 1796
+  :name: topographia
+  :definition: The description of a place.
+  :example: 
+  :source: wikipedia
+- :id: 1797
+  :name: topothesia
+  :definition: The description of an imaginary or non-existent place.
+  :example: 
+  :source: wikipedia
+- :id: 1798
+  :name: Topos
+  :definition: A line or specific style of argument.
+  :example: 
+  :source: wikipedia
+- :id: 1799
+  :name: Toulmin Model
+  :definition: A method of diagraming arguments created by Stephen Toulmin that identifies
+    such components as backing, claim, data, qualifier, rebuttal, and warrant.
+  :example: 
+  :source: wikipedia
+- :id: 1800
+  :name: Translative issue
+  :definition: Dealing with procedure of an ensuing case.
+  :example: 
+  :source: wikipedia
+- :id: 1801
+  :name: Tricolon
+  :definition: The pattern of three phrases in parallel, found commonly in Western
+    writing after Cicero
+  :example: 
+  :source: wikipedia
+- :id: 1802
+  :name: Trivium
+  :definition: (Latin) Grammar, rhetoric, and logic taught in schools during the medieval
+    period.
+  :example: 
+  :source: wikipedia
+- :id: 1803
+  :name: Tropes
+  :definition: Figure of speech that uses a word aside from its literal meaning.
+  :example: 
+  :source: wikipedia
+- :id: 1804
+  :name: Understatement
+  :definition: A form of irony, also called litotes, in which something is represented
+    as less than it really is, with the intent of drawing attention to and emphasizing
+    the opposite meaning.
+  :example: 
+  :source: wikipedia
+- :id: 1805
+  :name: Universal audience
+  :definition: An audience consisting of all humankind (most specifically of adult
+    age and normal mental capacity).
+  :example: 
+  :source: wikipedia
+- :id: 1806
+  :name: Utterance
+  :definition: Statement that could contain meaning about one's own person.
+  :example: 
+  :source: wikipedia
+- :id: 1807
+  :name: Validity
+  :definition: Apprehension over the structure of an argument.
+  :example: 
+  :source: wikipedia
+- :id: 1808
+  :name: Validity claim
+  :definition: Claiming to have made a correct statement.
+  :example: 
+  :source: wikipedia
+- :id: 1809
+  :name: Verba
+  :definition: ! 'Latin: The part of an argument that advances the subject matter.'
+  :example: 
+  :source: wikipedia
+- :id: 1810
+  :name: Visual rhetoric
+  :definition: A theoretical framework describing how visual images communicate, as
+    opposed to aural or verbal messages.
+  :example: 
+  :source: wikipedia
+- :id: 1811
+  :name: Vir bonus dicendi peritus
+  :definition: ! 'Latin: The good man skilled at speaking well.'
+  :example: 
+  :source: wikipedia
+- :id: 1812
+  :name: Vita activa
+  :definition: A life lived in active involvement in the political arena.
+  :example: 
+  :source: wikipedia
+- :id: 1813
+  :name: Warrant
+  :definition: term used by Stephen Toulmin to establish a link between data and a
+    claim.
+  :example: 
+  :source: wikipedia
+- :id: 1814
+  :name: Ways and means[disambiguation needed]
+  :definition: One of the five main matters that Aristotle claims political speakers
+    make speeches on
+  :example: 
+  :source: wikipedia
+- :id: 1815
+  :name: Zeugma
+  :definition: From the Greek word "ζεύγμα", meaning "yoke"
+  :example: 
+  :source: wikipedia

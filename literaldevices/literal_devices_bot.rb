@@ -1,7 +1,9 @@
 require 'text/hyphen'
 require 'marky_markov'
 require 'pathname'
-require Pathname(__FILE__).dirname.expand_path.to_s + '/models'
+require 'yaml'
+
+# require Pathname(__FILE__).dirname.expand_path.to_s + '/models'
 require Pathname(__FILE__).dirname.parent.expand_path.to_s + '/models'
 
 class LiteralDevicesBot
@@ -18,13 +20,16 @@ class LiteralDevicesBot
 
     hh = Text::Hyphen.new(:language => 'en_us', :left => 0, :right => 0)
     
+    devices = YAML.load(open("#{Pathname(__FILE__).dirname.expand_path}/devices.yml").read)
+    names = devices.select{|d| d[:source] == "devices"}.collect{|d| d[:name]}.select{|i| i.length > 1}
 
-    names =  DataMapper.repository(:literal_devices) do
-      Device.all.select{|d| d.source == "devices"}.collect(&:name).select{|i| i.length > 1}
-    end 
+    # names =  DataMapper.repository(:literal_devices) do
+    #   Device.all.select{|d| d.source == "devices"}.collect(&:name).select{|i| i.length > 1}
+    # end 
 
     names = names.collect{|n| hh.visualize(n).split("-")}
     
+
     term = nil
     if rand > 0.5
       set = (0..2).collect{names.sample}
