@@ -3,6 +3,7 @@ require './models'
 require './west_wing_bot'
 require './lifetoll_bot'
 require './literaldevices/literal_devices_bot'
+require './destiny_ebooks_bot'
 
 desc "Authorize a new bot."
 task :add_bot do
@@ -28,6 +29,7 @@ end
 desc "Send next tweet for each bot with a normal schedule. Run by the Heroku scheduler"
 task :send_tweets do
 	bots = Bot.verified_bots("normal")
+	bots << DestinyEbooksBot.new
 	bots << LifetollBot.new
 	bots << LiteralDevicesBot.new
 	bots.each do |bot|
