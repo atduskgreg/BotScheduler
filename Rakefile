@@ -1,6 +1,8 @@
 require './load_config' unless ENV["RACK_ENV"] == "production"
 require './models'
 require './west_wing_bot'
+require './lifetoll_bot'
+require './literaldevices/literal_devices_bot'
 
 desc "Authorize a new bot."
 task :add_bot do
@@ -25,7 +27,10 @@ end
 
 desc "Send next tweet for each bot with a normal schedule. Run by the Heroku scheduler"
 task :send_tweets do
-	Bot.verified_bots("normal").each do |bot|
+	bots = Bot.verified_bots("normal")
+	bots << LifetollBot.new
+	bots << LiteralDevicesBot.new
+	bots.each do |bot|
 		begin
 			bot.next_tweet.publish!
 		rescue Exception => e

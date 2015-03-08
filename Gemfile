@@ -9,5 +9,8 @@ gem "rake"
 gem "ferret"
 gem "nokogiri"
 gem "engtagger"
+gem 'text-hyphen'
+gem "marky_markov"
+gem "dm-sqlite-adapter"
 
 gem "dm-postgres-adapter"
