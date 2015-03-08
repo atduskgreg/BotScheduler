@@ -28,7 +28,7 @@ end
 
 desc "Send next tweet for each bot with a normal schedule. Run by the Heroku scheduler"
 task :send_tweets do
-	bots = Bot.verified_bots("normal")
+	bots = Bot.verified_bots("normal").to_ary
 	bots << DestinyEbooksBot.new
 	bots << LifetollBot.new
 	bots << LiteralDevicesBot.new
