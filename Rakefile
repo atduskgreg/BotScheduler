@@ -4,6 +4,7 @@ require './west_wing_bot'
 require './lifetoll_bot'
 require './literaldevices/literal_devices_bot'
 require './destiny_ebooks_bot'
+require './tv_pitcher_bot'
 
 desc "Authorize a new bot."
 task :add_bot do
@@ -32,6 +33,8 @@ task :send_tweets do
 	bots << DestinyEbooksBot.new
 	bots << LifetollBot.new
 	bots << LiteralDevicesBot.new
+	bots << TVPitcherBot.new
+
 	bots.each do |bot|
 		begin
 			bot.next_tweet.publish!

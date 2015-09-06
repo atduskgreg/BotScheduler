@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'bundler/setup'
 require 'sinatra'
+# require 'json'
 
 require './load_config' unless ENV["RACK_ENV"] == "production"
 require './models'
@@ -33,6 +34,12 @@ end
 get "/bots/:bot" do
 	@bot = Bot.first :handle => params[:bot]
 	erb :bot
+end
+
+get "/bots/:bot/tweets.json" do
+  content_type :json
+  @bot = Bot.first :handle => params[:bot]
+  @bot.tweets.collect{|t| t.text}.to_json
 end
 
 get "/bot/new" do
