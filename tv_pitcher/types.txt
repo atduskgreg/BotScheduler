@@ -14,3 +14,8 @@ alternate history
 upstairs-downstairs
 period
 historical
+teen
+superhero
+post-apocalyptic
+sci-fi
+dark
